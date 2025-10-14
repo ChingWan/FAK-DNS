@@ -1506,7 +1506,6 @@ quic://dns.adguard-dns.com
 [/12h5.com/]https://doh.pub/dns-query
 [/12ha.com/]https://doh.pub/dns-query
 [/12jn.com/]https://doh.pub/dns-query
-[/12ka.cc/]https://doh.pub/dns-query
 [/12kanshu.com/]https://doh.pub/dns-query
 [/12ketang.com/]https://doh.pub/dns-query
 [/12ky.com/]https://doh.pub/dns-query
@@ -2187,7 +2186,6 @@ quic://dns.adguard-dns.com
 [/17yaoqu.com/]https://doh.pub/dns-query
 [/17ym.org/]https://doh.pub/dns-query
 [/17you.com/]https://doh.pub/dns-query
-[/17yucai.com/]https://doh.pub/dns-query
 [/17yund.com/]https://doh.pub/dns-query
 [/17yunlian.net/]https://doh.pub/dns-query
 [/17yunzhijiao.com/]https://doh.pub/dns-query
@@ -2637,7 +2635,6 @@ quic://dns.adguard-dns.com
 [/2014.mobi/]https://doh.pub/dns-query
 [/20150.net/]https://doh.pub/dns-query
 [/201551.com/]https://doh.pub/dns-query
-[/2015law.com/]https://doh.pub/dns-query
 [/2016os.com/]https://doh.pub/dns-query
 [/2016ruanwen.com/]https://doh.pub/dns-query
 [/2016win10.com/]https://doh.pub/dns-query
@@ -2962,7 +2959,6 @@ quic://dns.adguard-dns.com
 [/23qcw.com/]https://doh.pub/dns-query
 [/23sk.com/]https://doh.pub/dns-query
 [/23txt.com/]https://doh.pub/dns-query
-[/23us.cc/]https://doh.pub/dns-query
 [/23us.so/]https://doh.pub/dns-query
 [/23us23us.com/]https://doh.pub/dns-query
 [/23uswx.com/]https://doh.pub/dns-query
@@ -3414,6 +3410,7 @@ quic://dns.adguard-dns.com
 [/31jgj.com/]https://doh.pub/dns-query
 [/31knit.com/]https://doh.pub/dns-query
 [/31m49.com/]https://doh.pub/dns-query
+[/31maque.com/]https://doh.pub/dns-query
 [/31meijia.com/]https://doh.pub/dns-query
 [/31ml.com/]https://doh.pub/dns-query
 [/31mold.com/]https://doh.pub/dns-query
@@ -4182,7 +4179,6 @@ quic://dns.adguard-dns.com
 [/3cjob.com/]https://doh.pub/dns-query
 [/3conline.com/]https://doh.pub/dns-query
 [/3cpp.org/]https://doh.pub/dns-query
-[/3cqhv.com/]https://doh.pub/dns-query
 [/3ct.cc/]https://doh.pub/dns-query
 [/3d-chips.com/]https://doh.pub/dns-query
 [/3d-gold.com/]https://doh.pub/dns-query
@@ -4972,7 +4968,6 @@ quic://dns.adguard-dns.com
 [/51b2b.com/]https://doh.pub/dns-query
 [/51babybuy.com/]https://doh.pub/dns-query
 [/51baigong.com/]https://doh.pub/dns-query
-[/51bale.com/]https://doh.pub/dns-query
 [/51banban.com/]https://doh.pub/dns-query
 [/51banka.net/]https://doh.pub/dns-query
 [/51baocan.com/]https://doh.pub/dns-query
@@ -5063,7 +5058,6 @@ quic://dns.adguard-dns.com
 [/51dingxiao.com/]https://doh.pub/dns-query
 [/51ditu.com/]https://doh.pub/dns-query
 [/51diyring.com/]https://doh.pub/dns-query
-[/51djqu.com/]https://doh.pub/dns-query
 [/51dmq.com/]https://doh.pub/dns-query
 [/51dns.com/]https://doh.pub/dns-query
 [/51docs.com/]https://doh.pub/dns-query
@@ -5257,7 +5251,6 @@ quic://dns.adguard-dns.com
 [/51link.com/]https://doh.pub/dns-query
 [/51liucheng.com/]https://doh.pub/dns-query
 [/51losangeles.com/]https://doh.pub/dns-query
-[/51lrc.com/]https://doh.pub/dns-query
 [/51lucy.com/]https://doh.pub/dns-query
 [/51lxrc.com/]https://doh.pub/dns-query
 [/51lzr.com/]https://doh.pub/dns-query
@@ -5336,7 +5329,6 @@ quic://dns.adguard-dns.com
 [/51qtg.com/]https://doh.pub/dns-query
 [/51qub.com/]https://doh.pub/dns-query
 [/51qudao888.com/]https://doh.pub/dns-query
-[/51qudong.net/]https://doh.pub/dns-query
 [/51qumi.com/]https://doh.pub/dns-query
 [/51quzhe.com/]https://doh.pub/dns-query
 [/51race.com/]https://doh.pub/dns-query
@@ -5968,7 +5960,6 @@ quic://dns.adguard-dns.com
 [/53shop.com/]https://doh.pub/dns-query
 [/53shubiao.com/]https://doh.pub/dns-query
 [/53site.com/]https://doh.pub/dns-query
-[/53trade.com/]https://doh.pub/dns-query
 [/53wan.com/]https://doh.pub/dns-query
 [/53wy.com/]https://doh.pub/dns-query
 [/53xjd.com/]https://doh.pub/dns-query
@@ -6382,7 +6373,6 @@ quic://dns.adguard-dns.com
 [/59wanmei.com/]https://doh.pub/dns-query
 [/59wj.com/]https://doh.pub/dns-query
 [/59yx.com/]https://doh.pub/dns-query
-[/5a5x.com/]https://doh.pub/dns-query
 [/5a8.org/]https://doh.pub/dns-query
 [/5aaa.com/]https://doh.pub/dns-query
 [/5acbd.com/]https://doh.pub/dns-query
@@ -6618,7 +6608,6 @@ quic://dns.adguard-dns.com
 [/5zhr.com/]https://doh.pub/dns-query
 [/5zls.com/]https://doh.pub/dns-query
 [/5zw.com/]https://doh.pub/dns-query
-[/5zy.net/]https://doh.pub/dns-query
 [/6-china.com/]https://doh.pub/dns-query
 [/600064.com/]https://doh.pub/dns-query
 [/600083.com/]https://doh.pub/dns-query
@@ -7298,7 +7287,6 @@ quic://dns.adguard-dns.com
 [/72gu.com/]https://doh.pub/dns-query
 [/72home.com/]https://doh.pub/dns-query
 [/72la.com/]https://doh.pub/dns-query
-[/72link.com/]https://doh.pub/dns-query
 [/72max.com/]https://doh.pub/dns-query
 [/72qq.com/]https://doh.pub/dns-query
 [/72r.net/]https://doh.pub/dns-query
@@ -7759,7 +7747,6 @@ quic://dns.adguard-dns.com
 [/8090vision.com/]https://doh.pub/dns-query
 [/8090yx.com/]https://doh.pub/dns-query
 [/8090yxs.com/]https://doh.pub/dns-query
-[/809636.com/]https://doh.pub/dns-query
 [/80982.org/]https://doh.pub/dns-query
 [/80baicai.biz/]https://doh.pub/dns-query
 [/80bi.com/]https://doh.pub/dns-query
@@ -8718,7 +8705,6 @@ quic://dns.adguard-dns.com
 [/941adu.com/]https://doh.pub/dns-query
 [/941gb.com/]https://doh.pub/dns-query
 [/942mc.com/]https://doh.pub/dns-query
-[/942ss.com/]https://doh.pub/dns-query
 [/944.com/]https://doh.pub/dns-query
 [/94445.com/]https://doh.pub/dns-query
 [/9453job.com/]https://doh.pub/dns-query
@@ -10067,7 +10053,6 @@ quic://dns.adguard-dns.com
 [/agefans.com/]https://doh.pub/dns-query
 [/agel-tech.com/]https://doh.pub/dns-query
 [/agelocer.com/]https://doh.pub/dns-query
-[/agen2000.net/]https://doh.pub/dns-query
 [/agenge.com/]https://doh.pub/dns-query
 [/agenow.com/]https://doh.pub/dns-query
 [/agentyun.com/]https://doh.pub/dns-query
@@ -10884,7 +10869,6 @@ quic://dns.adguard-dns.com
 [/aixiawx.com/]https://doh.pub/dns-query
 [/aixiaxs.com/]https://doh.pub/dns-query
 [/aixiaxsw.com/]https://doh.pub/dns-query
-[/aixiegao.com/]https://doh.pub/dns-query
 [/aixiezuo.com/]https://doh.pub/dns-query
 [/aixiezuobao.com/]https://doh.pub/dns-query
 [/aixifan.com/]https://doh.pub/dns-query
@@ -11271,7 +11255,6 @@ quic://dns.adguard-dns.com
 [/alixiaoyouhui.com/]https://doh.pub/dns-query
 [/alixixi.com/]https://doh.pub/dns-query
 [/alixox.com/]https://doh.pub/dns-query
-[/alixv.com/]https://doh.pub/dns-query
 [/aliyiyao.com/]https://doh.pub/dns-query
 [/aliyizhan.com/]https://doh.pub/dns-query
 [/aliyue.net/]https://doh.pub/dns-query
@@ -11426,7 +11409,6 @@ quic://dns.adguard-dns.com
 [/allchips.com/]https://doh.pub/dns-query
 [/allcitygo.com/]https://doh.pub/dns-query
 [/allcitysz.net/]https://doh.pub/dns-query
-[/allcombo.com/]https://doh.pub/dns-query
 [/alldk.com/]https://doh.pub/dns-query
 [/alldobetter.com/]https://doh.pub/dns-query
 [/alldragon.com/]https://doh.pub/dns-query
@@ -12712,7 +12694,6 @@ quic://dns.adguard-dns.com
 [/asfzl.net/]https://doh.pub/dns-query
 [/asgezhi.com/]https://doh.pub/dns-query
 [/ashan.org/]https://doh.pub/dns-query
-[/ashechi.com/]https://doh.pub/dns-query
 [/ashehua.com/]https://doh.pub/dns-query
 [/ashidc.com/]https://doh.pub/dns-query
 [/ashining.com/]https://doh.pub/dns-query
@@ -12749,7 +12730,6 @@ quic://dns.adguard-dns.com
 [/asianmetal.com/]https://doh.pub/dns-query
 [/asiarobot.net/]https://doh.pub/dns-query
 [/asiaseiki.com/]https://doh.pub/dns-query
-[/asiasolar.net/]https://doh.pub/dns-query
 [/asiasymbol.com/]https://doh.pub/dns-query
 [/asiatelco.com/]https://doh.pub/dns-query
 [/asiayun.com/]https://doh.pub/dns-query
@@ -13587,7 +13567,6 @@ quic://dns.adguard-dns.com
 [/badazhou.com/]https://doh.pub/dns-query
 [/bademeiji.com/]https://doh.pub/dns-query
 [/badianyun.com/]https://doh.pub/dns-query
-[/badls.com/]https://doh.pub/dns-query
 [/badmintoncn.com/]https://doh.pub/dns-query
 [/badmintone.com/]https://doh.pub/dns-query
 [/badong.net/]https://doh.pub/dns-query
@@ -13605,7 +13584,6 @@ quic://dns.adguard-dns.com
 [/bagb2b.com/]https://doh.pub/dns-query
 [/bagevent.com/]https://doh.pub/dns-query
 [/bags163.com/]https://doh.pub/dns-query
-[/bagschangedmylife.com/]https://doh.pub/dns-query
 [/bagsnet.com/]https://doh.pub/dns-query
 [/bagstory.net/]https://doh.pub/dns-query
 [/bagtree.com/]https://doh.pub/dns-query
@@ -14128,7 +14106,6 @@ quic://dns.adguard-dns.com
 [/banmajsq.com/]https://doh.pub/dns-query
 [/banmajz.net/]https://doh.pub/dns-query
 [/banmamedia.com/]https://doh.pub/dns-query
-[/banmashuo.com/]https://doh.pub/dns-query
 [/banmasiwei.com/]https://doh.pub/dns-query
 [/banmasrf.com/]https://doh.pub/dns-query
 [/banmasusuan.com/]https://doh.pub/dns-query
@@ -15670,7 +15647,6 @@ quic://dns.adguard-dns.com
 [/bilfinance.com/]https://doh.pub/dns-query
 [/biliapi.com/]https://doh.pub/dns-query
 [/biliapi.net/]https://doh.pub/dns-query
-[/biliapi.xyz/]https://doh.pub/dns-query
 [/bilibil.com/]https://doh.pub/dns-query
 [/bilibili.cc/]https://doh.pub/dns-query
 [/bilibili.co/]https://doh.pub/dns-query
@@ -15934,7 +15910,6 @@ quic://dns.adguard-dns.com
 [/birdotech.com/]https://doh.pub/dns-query
 [/birdwork.com/]https://doh.pub/dns-query
 [/birentech.com/]https://doh.pub/dns-query
-[/birthhealth.com/]https://doh.pub/dns-query
 [/bisairi.com/]https://doh.pub/dns-query
 [/bisenaccess.com/]https://doh.pub/dns-query
 [/bisenet.com/]https://doh.pub/dns-query
@@ -16552,7 +16527,6 @@ quic://dns.adguard-dns.com
 [/bjwig.com/]https://doh.pub/dns-query
 [/bjwkhotel.com/]https://doh.pub/dns-query
 [/bjwkzl.com/]https://doh.pub/dns-query
-[/bjwlapp.com/]https://doh.pub/dns-query
 [/bjwpjs.com/]https://doh.pub/dns-query
 [/bjwqxh.com/]https://doh.pub/dns-query
 [/bjwt.com/]https://doh.pub/dns-query
@@ -17918,7 +17892,6 @@ quic://dns.adguard-dns.com
 [/bxjyxx.net/]https://doh.pub/dns-query
 [/bxkejian.com/]https://doh.pub/dns-query
 [/bxktv.com/]https://doh.pub/dns-query
-[/bxlac.com/]https://doh.pub/dns-query
 [/bxldz.com/]https://doh.pub/dns-query
 [/bxltw.com/]https://doh.pub/dns-query
 [/bxmd51.com/]https://doh.pub/dns-query
@@ -18551,7 +18524,6 @@ quic://dns.adguard-dns.com
 [/caldigit.net/]https://doh.pub/dns-query
 [/caledoniancable.com/]https://doh.pub/dns-query
 [/calendar520.com/]https://doh.pub/dns-query
-[/calendarli.com/]https://doh.pub/dns-query
 [/calgoncarbon-china.com/]https://doh.pub/dns-query
 [/cali-light.com/]https://doh.pub/dns-query
 [/callbei.com/]https://doh.pub/dns-query
@@ -18595,7 +18567,6 @@ quic://dns.adguard-dns.com
 [/campushoy.com/]https://doh.pub/dns-query
 [/campusphere.net/]https://doh.pub/dns-query
 [/campusplus.com/]https://doh.pub/dns-query
-[/camrymetal.com/]https://doh.pub/dns-query
 [/camscanner.com/]https://doh.pub/dns-query
 [/camsnetec.com/]https://doh.pub/dns-query
 [/camyu.net/]https://doh.pub/dns-query
@@ -18856,7 +18827,6 @@ quic://dns.adguard-dns.com
 [/casnb.com/]https://doh.pub/dns-query
 [/casp.hk/]https://doh.pub/dns-query
 [/caspte.com/]https://doh.pub/dns-query
-[/casql.com/]https://doh.pub/dns-query
 [/casqy.com/]https://doh.pub/dns-query
 [/casszzy.com/]https://doh.pub/dns-query
 [/castbd.com/]https://doh.pub/dns-query
@@ -18977,7 +18947,6 @@ quic://dns.adguard-dns.com
 [/cburi.com/]https://doh.pub/dns-query
 [/cbvac.com/]https://doh.pub/dns-query
 [/cbvvt.com/]https://doh.pub/dns-query
-[/cbxg.icu/]https://doh.pub/dns-query
 [/cbxs.net/]https://doh.pub/dns-query
 [/cby.me/]https://doh.pub/dns-query
 [/cbzr.com/]https://doh.pub/dns-query
@@ -19355,7 +19324,6 @@ quic://dns.adguard-dns.com
 [/ccughc.net/]https://doh.pub/dns-query
 [/ccunf.com/]https://doh.pub/dns-query
 [/ccutchi.com/]https://doh.pub/dns-query
-[/ccutu.com/]https://doh.pub/dns-query
 [/ccv160.com/]https://doh.pub/dns-query
 [/ccv168.com/]https://doh.pub/dns-query
 [/ccview.net/]https://doh.pub/dns-query
@@ -19710,7 +19678,6 @@ quic://dns.adguard-dns.com
 [/cdnmg.com/]https://doh.pub/dns-query
 [/cdnok.com/]https://doh.pub/dns-query
 [/cdnpe.com/]https://doh.pub/dns-query
-[/cdnqiangdun.com/]https://doh.pub/dns-query
 [/cdnqttdispatcher01.com/]https://doh.pub/dns-query
 [/cdnrl.com/]https://doh.pub/dns-query
 [/cdnsvc.com/]https://doh.pub/dns-query
@@ -20264,7 +20231,6 @@ quic://dns.adguard-dns.com
 [/cha-tm.com/]https://doh.pub/dns-query
 [/cha127.com/]https://doh.pub/dns-query
 [/cha138.com/]https://doh.pub/dns-query
-[/cha3721.com/]https://doh.pub/dns-query
 [/cha40.com/]https://doh.pub/dns-query
 [/chaba123.com/]https://doh.pub/dns-query
 [/chabansheng.com/]https://doh.pub/dns-query
@@ -20487,7 +20453,6 @@ quic://dns.adguard-dns.com
 [/chaofanlin.com/]https://doh.pub/dns-query
 [/chaofanshuma.com/]https://doh.pub/dns-query
 [/chaofantian.com/]https://doh.pub/dns-query
-[/chaogaofang2099.com/]https://doh.pub/dns-query
 [/chaogejiaoyu.com/]https://doh.pub/dns-query
 [/chaogu1688.com/]https://doh.pub/dns-query
 [/chaohuatech.com/]https://doh.pub/dns-query
@@ -21093,7 +21058,6 @@ quic://dns.adguard-dns.com
 [/china-consulate.org/]https://doh.pub/dns-query
 [/china-core.com/]https://doh.pub/dns-query
 [/china-cotton.org/]https://doh.pub/dns-query
-[/china-cpp.com/]https://doh.pub/dns-query
 [/china-cpu.co/]https://doh.pub/dns-query
 [/china-cpu.com/]https://doh.pub/dns-query
 [/china-cri.com/]https://doh.pub/dns-query
@@ -22552,7 +22516,6 @@ quic://dns.adguard-dns.com
 [/chuangshiyuli.com/]https://doh.pub/dns-query
 [/chuangtie.com/]https://doh.pub/dns-query
 [/chuangtoo.com/]https://doh.pub/dns-query
-[/chuangweikeji.com/]https://doh.pub/dns-query
 [/chuangx.org/]https://doh.pub/dns-query
 [/chuangxin.com/]https://doh.pub/dns-query
 [/chuangxinapi.com/]https://doh.pub/dns-query
@@ -22637,7 +22600,6 @@ quic://dns.adguard-dns.com
 [/chumenwenwen.com/]https://doh.pub/dns-query
 [/chun-wang.com/]https://doh.pub/dns-query
 [/chun-xiang.com/]https://doh.pub/dns-query
-[/chunbo.com/]https://doh.pub/dns-query
 [/chunboimg.com/]https://doh.pub/dns-query
 [/chundi.com/]https://doh.pub/dns-query
 [/chundi.org/]https://doh.pub/dns-query
@@ -22815,7 +22777,6 @@ quic://dns.adguard-dns.com
 [/cihai123.com/]https://doh.pub/dns-query
 [/cihexpo.com/]https://doh.pub/dns-query
 [/cihua.net/]https://doh.pub/dns-query
-[/ciia-top.com/]https://doh.pub/dns-query
 [/ciiccq.com/]https://doh.pub/dns-query
 [/ciicgat.com/]https://doh.pub/dns-query
 [/ciichr.com/]https://doh.pub/dns-query
@@ -23193,7 +23154,6 @@ quic://dns.adguard-dns.com
 [/clearmediatech.com/]https://doh.pub/dns-query
 [/clearofchina.com/]https://doh.pub/dns-query
 [/clearsky360.com/]https://doh.pub/dns-query
-[/clegend-films.com/]https://doh.pub/dns-query
 [/clevercn.net/]https://doh.pub/dns-query
 [/cleveroom.com/]https://doh.pub/dns-query
 [/clewm.net/]https://doh.pub/dns-query
@@ -25179,7 +25139,9 @@ quic://dns.adguard-dns.com
 [/cosplay8.com/]https://doh.pub/dns-query
 [/cosplayla.com/]https://doh.pub/dns-query
 [/costku.com/]https://doh.pub/dns-query
+[/costuan.com/]https://doh.pub/dns-query
 [/cosunter.com/]https://doh.pub/dns-query
+[/cosxu.com/]https://doh.pub/dns-query
 [/cosyjoy.com/]https://doh.pub/dns-query
 [/cosz.com/]https://doh.pub/dns-query
 [/cotek-robotics.com/]https://doh.pub/dns-query
@@ -25298,7 +25260,6 @@ quic://dns.adguard-dns.com
 [/cps1688.com/]https://doh.pub/dns-query
 [/cps800.com/]https://doh.pub/dns-query
 [/cpsbeijing.org/]https://doh.pub/dns-query
-[/cpsclab.com/]https://doh.pub/dns-query
 [/cpse.com/]https://doh.pub/dns-query
 [/cpsenglish.com/]https://doh.pub/dns-query
 [/cpt-world.com/]https://doh.pub/dns-query
@@ -25342,7 +25303,6 @@ quic://dns.adguard-dns.com
 [/cq3a.com/]https://doh.pub/dns-query
 [/cq5135.com/]https://doh.pub/dns-query
 [/cq556.com/]https://doh.pub/dns-query
-[/cq5y.com/]https://doh.pub/dns-query
 [/cq6.com/]https://doh.pub/dns-query
 [/cq69.com/]https://doh.pub/dns-query
 [/cq6969.com/]https://doh.pub/dns-query
@@ -25671,7 +25631,6 @@ quic://dns.adguard-dns.com
 [/cqlzz.com/]https://doh.pub/dns-query
 [/cqmaika.com/]https://doh.pub/dns-query
 [/cqmama.net/]https://doh.pub/dns-query
-[/cqmanfeite.com/]https://doh.pub/dns-query
 [/cqmanzhong.com/]https://doh.pub/dns-query
 [/cqmarathon.com/]https://doh.pub/dns-query
 [/cqmas.com/]https://doh.pub/dns-query
@@ -27189,7 +27148,6 @@ quic://dns.adguard-dns.com
 [/czjoel.com/]https://doh.pub/dns-query
 [/czjpw.com/]https://doh.pub/dns-query
 [/czjsy.com/]https://doh.pub/dns-query
-[/czjtpipe.com/]https://doh.pub/dns-query
 [/czjyzx.net/]https://doh.pub/dns-query
 [/czkbdq.net/]https://doh.pub/dns-query
 [/czkctl.com/]https://doh.pub/dns-query
@@ -27242,7 +27200,6 @@ quic://dns.adguard-dns.com
 [/cztzkg.com/]https://doh.pub/dns-query
 [/czur.com/]https://doh.pub/dns-query
 [/czvv.net/]https://doh.pub/dns-query
-[/czwgpt.com/]https://doh.pub/dns-query
 [/czwie.com/]https://doh.pub/dns-query
 [/czws.com/]https://doh.pub/dns-query
 [/czwsg5.com/]https://doh.pub/dns-query
@@ -27797,7 +27754,6 @@ quic://dns.adguard-dns.com
 [/danzhaoedu.com/]https://doh.pub/dns-query
 [/danzhaowang.com/]https://doh.pub/dns-query
 [/danzhou8.com/]https://doh.pub/dns-query
-[/danzhoujob.net/]https://doh.pub/dns-query
 [/dao-fu.com/]https://doh.pub/dns-query
 [/dao123.com/]https://doh.pub/dns-query
 [/dao3.fun/]https://doh.pub/dns-query
@@ -27839,7 +27795,6 @@ quic://dns.adguard-dns.com
 [/daokers.com/]https://doh.pub/dns-query
 [/daokeyuedu.com/]https://doh.pub/dns-query
 [/daokoudai.com/]https://doh.pub/dns-query
-[/daolang.net/]https://doh.pub/dns-query
 [/daomengad.com/]https://doh.pub/dns-query
 [/daomengg.com/]https://doh.pub/dns-query
 [/daomengren.com/]https://doh.pub/dns-query
@@ -28242,7 +28197,6 @@ quic://dns.adguard-dns.com
 [/dcdapp.com/]https://doh.pub/dns-query
 [/dcdnx.com/]https://doh.pub/dns-query
 [/dcement.com/]https://doh.pub/dns-query
-[/dcetax.com/]https://doh.pub/dns-query
 [/dcf365.com/]https://doh.pub/dns-query
 [/dcg123.com/]https://doh.pub/dns-query
 [/dcgqt.com/]https://doh.pub/dns-query
@@ -28848,7 +28802,6 @@ quic://dns.adguard-dns.com
 [/dfstw.com/]https://doh.pub/dns-query
 [/dfsyjm.com/]https://doh.pub/dns-query
 [/dftcdq.com/]https://doh.pub/dns-query
-[/dftq.net/]https://doh.pub/dns-query
 [/dftryy.com/]https://doh.pub/dns-query
 [/dftyyls.com/]https://doh.pub/dns-query
 [/dftzcgs.com/]https://doh.pub/dns-query
@@ -29055,7 +29008,6 @@ quic://dns.adguard-dns.com
 [/dhkq120.com/]https://doh.pub/dns-query
 [/dhkqmz.com/]https://doh.pub/dns-query
 [/dhkqyy.com/]https://doh.pub/dns-query
-[/dhlmyorder82662-info-can.com/]https://doh.pub/dns-query
 [/dhmeri.com/]https://doh.pub/dns-query
 [/dhmsnyy.com/]https://doh.pub/dns-query
 [/dhppa.com/]https://doh.pub/dns-query
@@ -29583,7 +29535,6 @@ quic://dns.adguard-dns.com
 [/dituwuyou.com/]https://doh.pub/dns-query
 [/dituyi.com/]https://doh.pub/dns-query
 [/diugai.com/]https://doh.pub/dns-query
-[/diustou.com/]https://doh.pub/dns-query
 [/diuta.com/]https://doh.pub/dns-query
 [/diuut.com/]https://doh.pub/dns-query
 [/divcss5.com/]https://doh.pub/dns-query
@@ -31425,7 +31376,6 @@ quic://dns.adguard-dns.com
 [/dxyff.com/]https://doh.pub/dns-query
 [/dxys.pro/]https://doh.pub/dns-query
 [/dxyykj.com/]https://doh.pub/dns-query
-[/dxyzsq.com/]https://doh.pub/dns-query
 [/dxzanzhu.com/]https://doh.pub/dns-query
 [/dxzhz.com/]https://doh.pub/dns-query
 [/dxzk88.com/]https://doh.pub/dns-query
@@ -31467,7 +31417,6 @@ quic://dns.adguard-dns.com
 [/dyemp.com/]https://doh.pub/dns-query
 [/dyets-cn.com/]https://doh.pub/dns-query
 [/dyfc.net/]https://doh.pub/dns-query
-[/dyfgp.com/]https://doh.pub/dns-query
 [/dyfm200.com/]https://doh.pub/dns-query
 [/dyg-hec.com/]https://doh.pub/dns-query
 [/dygf.com/]https://doh.pub/dns-query
@@ -32134,7 +32083,6 @@ quic://dns.adguard-dns.com
 [/ecinnovations.com/]https://doh.pub/dns-query
 [/ecitic.com/]https://doh.pub/dns-query
 [/eciticcfc.com/]https://doh.pub/dns-query
-[/ecjobhome.com/]https://doh.pub/dns-query
 [/ecjson.com/]https://doh.pub/dns-query
 [/eckwai.com/]https://doh.pub/dns-query
 [/ecloud-gdu.com/]https://doh.pub/dns-query
@@ -33342,6 +33290,7 @@ quic://dns.adguard-dns.com
 [/eszwdx.com/]https://doh.pub/dns-query
 [/eszyb.com/]https://doh.pub/dns-query
 [/et-api.com/]https://doh.pub/dns-query
+[/et-cdn.com/]https://doh.pub/dns-query
 [/et-fine.com/]https://doh.pub/dns-query
 [/et363.com/]https://doh.pub/dns-query
 [/et59.com/]https://doh.pub/dns-query
@@ -33423,7 +33372,6 @@ quic://dns.adguard-dns.com
 [/etrasemi.com/]https://doh.pub/dns-query
 [/etrd.org/]https://doh.pub/dns-query
 [/etrol.com/]https://doh.pub/dns-query
-[/etroytj33.fun/]https://doh.pub/dns-query
 [/etrump.net/]https://doh.pub/dns-query
 [/ets100.com/]https://doh.pub/dns-query
 [/etsc-tech.com/]https://doh.pub/dns-query
@@ -33718,7 +33666,6 @@ quic://dns.adguard-dns.com
 [/exquisite-automotive.com/]https://doh.pub/dns-query
 [/exsvc.net/]https://doh.pub/dns-query
 [/ext2fsd.com/]https://doh.pub/dns-query
-[/extbrand.com/]https://doh.pub/dns-query
 [/extech-sh.com/]https://doh.pub/dns-query
 [/externalcoop.com/]https://doh.pub/dns-query
 [/extfans.com/]https://doh.pub/dns-query
@@ -35470,7 +35417,6 @@ quic://dns.adguard-dns.com
 [/fjzikao.net/]https://doh.pub/dns-query
 [/fjzixun.com/]https://doh.pub/dns-query
 [/fjzol.com/]https://doh.pub/dns-query
-[/fjzsksw.com/]https://doh.pub/dns-query
 [/fjzx.org/]https://doh.pub/dns-query
 [/fjzyxx.com/]https://doh.pub/dns-query
 [/fjzzct.com/]https://doh.pub/dns-query
@@ -36244,7 +36190,6 @@ quic://dns.adguard-dns.com
 [/fthformal.com/]https://doh.pub/dns-query
 [/fthgz.com/]https://doh.pub/dns-query
 [/fthimalayandb.com/]https://doh.pub/dns-query
-[/ftiku.com/]https://doh.pub/dns-query
 [/ftium4.com/]https://doh.pub/dns-query
 [/ftlcloud.com/]https://doh.pub/dns-query
 [/ftls.xyz/]https://doh.pub/dns-query
@@ -36958,7 +36903,6 @@ quic://dns.adguard-dns.com
 [/game-reign.com/]https://doh.pub/dns-query
 [/game10000.com/]https://doh.pub/dns-query
 [/game112233.com/]https://doh.pub/dns-query
-[/game1215.com/]https://doh.pub/dns-query
 [/game12315.com/]https://doh.pub/dns-query
 [/game13.com/]https://doh.pub/dns-query
 [/game2.com/]https://doh.pub/dns-query
@@ -37636,7 +37580,6 @@ quic://dns.adguard-dns.com
 [/gdjysteel.com/]https://doh.pub/dns-query
 [/gdjyw.com/]https://doh.pub/dns-query
 [/gdjyyy.com/]https://doh.pub/dns-query
-[/gdk-link.com/]https://doh.pub/dns-query
 [/gdkailin.com/]https://doh.pub/dns-query
 [/gdkcsj.com/]https://doh.pub/dns-query
 [/gdkepler.com/]https://doh.pub/dns-query
@@ -37702,7 +37645,6 @@ quic://dns.adguard-dns.com
 [/gdokpackaging.com/]https://doh.pub/dns-query
 [/gdolai.com/]https://doh.pub/dns-query
 [/gdomall.com/]https://doh.pub/dns-query
-[/gdong.com/]https://doh.pub/dns-query
 [/gdou.com/]https://doh.pub/dns-query
 [/gdpace.com/]https://doh.pub/dns-query
 [/gdpdd.com/]https://doh.pub/dns-query
@@ -38525,7 +38467,6 @@ quic://dns.adguard-dns.com
 [/gifu-pr.com/]https://doh.pub/dns-query
 [/giga-da.com/]https://doh.pub/dns-query
 [/giga-science.com/]https://doh.pub/dns-query
-[/gigac.com/]https://doh.pub/dns-query
 [/gigaget.com/]https://doh.pub/dns-query
 [/gigbl.com/]https://doh.pub/dns-query
 [/gigpayroll.com/]https://doh.pub/dns-query
@@ -38580,7 +38521,6 @@ quic://dns.adguard-dns.com
 [/gistc.com/]https://doh.pub/dns-query
 [/git-repo.info/]https://doh.pub/dns-query
 [/git-star.com/]https://doh.pub/dns-query
-[/gitbook.net/]https://doh.pub/dns-query
 [/gitcafe.ink/]https://doh.pub/dns-query
 [/gitclone.com/]https://doh.pub/dns-query
 [/gitcode.com/]https://doh.pub/dns-query
@@ -39447,7 +39387,6 @@ quic://dns.adguard-dns.com
 [/goodwillresource.com/]https://doh.pub/dns-query
 [/goodwyee.com/]https://doh.pub/dns-query
 [/goodyoungtea.com/]https://doh.pub/dns-query
-[/goodzuji.com/]https://doh.pub/dns-query
 [/goofish.com/]https://doh.pub/dns-query
 [/google-hub.com/]https://doh.pub/dns-query
 [/google-play.mobi/]https://doh.pub/dns-query
@@ -39961,13 +39900,11 @@ quic://dns.adguard-dns.com
 [/gstjs.com/]https://doh.pub/dns-query
 [/gstonegames.com/]https://doh.pub/dns-query
 [/gstsz.com/]https://doh.pub/dns-query
-[/gstzc.com/]https://doh.pub/dns-query
 [/gstzyyy.com/]https://doh.pub/dns-query
 [/gsuus.com/]https://doh.pub/dns-query
 [/gsvws.com/]https://doh.pub/dns-query
 [/gswjxjzx.com/]https://doh.pub/dns-query
 [/gswljt.com/]https://doh.pub/dns-query
-[/gswtol.com/]https://doh.pub/dns-query
 [/gswz.com/]https://doh.pub/dns-query
 [/gsx009.com/]https://doh.pub/dns-query
 [/gsxb.net/]https://doh.pub/dns-query
@@ -40643,7 +40580,6 @@ quic://dns.adguard-dns.com
 [/guoturen.com/]https://doh.pub/dns-query
 [/guotv.com/]https://doh.pub/dns-query
 [/guowai.org/]https://doh.pub/dns-query
-[/guowaidiaocha.com/]https://doh.pub/dns-query
 [/guoweijt.com/]https://doh.pub/dns-query
 [/guoweistem.com/]https://doh.pub/dns-query
 [/guoweitong.com/]https://doh.pub/dns-query
@@ -42252,7 +42188,6 @@ quic://dns.adguard-dns.com
 [/gxsyh.com/]https://doh.pub/dns-query
 [/gxsyzs.com/]https://doh.pub/dns-query
 [/gxszf.net/]https://doh.pub/dns-query
-[/gxszga.com/]https://doh.pub/dns-query
 [/gxszgp.com/]https://doh.pub/dns-query
 [/gxszjf.com/]https://doh.pub/dns-query
 [/gxszjk.com/]https://doh.pub/dns-query
@@ -42785,7 +42720,6 @@ quic://dns.adguard-dns.com
 [/gybsn.com/]https://doh.pub/dns-query
 [/gybyscy.com/]https://doh.pub/dns-query
 [/gybyxsy1588.com/]https://doh.pub/dns-query
-[/gycfst.com/]https://doh.pub/dns-query
 [/gycharm.com/]https://doh.pub/dns-query
 [/gycode.com/]https://doh.pub/dns-query
 [/gydfsy.com/]https://doh.pub/dns-query
@@ -43876,7 +43810,6 @@ quic://dns.adguard-dns.com
 [/haitou360.com/]https://doh.pub/dns-query
 [/haitoujia.com/]https://doh.pub/dns-query
 [/haituie.com/]https://doh.pub/dns-query
-[/haituncun.com/]https://doh.pub/dns-query
 [/haitunshenghuo.com/]https://doh.pub/dns-query
 [/haituntui.com/]https://doh.pub/dns-query
 [/haitunvoice.com/]https://doh.pub/dns-query
@@ -44425,6 +44358,7 @@ quic://dns.adguard-dns.com
 [/haonic.com/]https://doh.pub/dns-query
 [/haoniu1.com/]https://doh.pub/dns-query
 [/haonongzi.com/]https://doh.pub/dns-query
+[/haooyuan.com/]https://doh.pub/dns-query
 [/haopeixun.com/]https://doh.pub/dns-query
 [/haopianyi.com/]https://doh.pub/dns-query
 [/haoqdl.com/]https://doh.pub/dns-query
@@ -44773,7 +44707,6 @@ quic://dns.adguard-dns.com
 [/hbbzyys.org/]https://doh.pub/dns-query
 [/hbca110.com/]https://doh.pub/dns-query
 [/hbcbly.com/]https://doh.pub/dns-query
-[/hbcclaw.com/]https://doh.pub/dns-query
 [/hbccp.org/]https://doh.pub/dns-query
 [/hbccpit.org/]https://doh.pub/dns-query
 [/hbccza.com/]https://doh.pub/dns-query
@@ -45812,7 +45745,6 @@ quic://dns.adguard-dns.com
 [/hengbaochuju.com/]https://doh.pub/dns-query
 [/hengbinzl.com/]https://doh.pub/dns-query
 [/hengbogroup.com/]https://doh.pub/dns-query
-[/hengchang6.com/]https://doh.pub/dns-query
 [/hengchangda.com/]https://doh.pub/dns-query
 [/hengdafilm.com/]https://doh.pub/dns-query
 [/hengdafuji.com/]https://doh.pub/dns-query
@@ -46154,7 +46086,6 @@ quic://dns.adguard-dns.com
 [/hfpx.cc/]https://doh.pub/dns-query
 [/hfqgmagnet.com/]https://doh.pub/dns-query
 [/hfqinhang.com/]https://doh.pub/dns-query
-[/hfqsm.com/]https://doh.pub/dns-query
 [/hfray.com/]https://doh.pub/dns-query
 [/hfrc.net/]https://doh.pub/dns-query
 [/hfrcbc.com/]https://doh.pub/dns-query
@@ -46179,7 +46110,6 @@ quic://dns.adguard-dns.com
 [/hfx.net/]https://doh.pub/dns-query
 [/hfxcfiberoptic.com/]https://doh.pub/dns-query
 [/hfxczj.com/]https://doh.pub/dns-query
-[/hfxg.net/]https://doh.pub/dns-query
 [/hfyestar.com/]https://doh.pub/dns-query
 [/hfykd.com/]https://doh.pub/dns-query
 [/hfykt.com/]https://doh.pub/dns-query
@@ -46646,6 +46576,7 @@ quic://dns.adguard-dns.com
 [/hitalkers.com/]https://doh.pub/dns-query
 [/hitao.com/]https://doh.pub/dns-query
 [/hitbot.cc/]https://doh.pub/dns-query
+[/hitctf.com/]https://doh.pub/dns-query
 [/hite.me/]https://doh.pub/dns-query
 [/hitechfrp.com/]https://doh.pub/dns-query
 [/hiteksoft.com/]https://doh.pub/dns-query
@@ -47071,7 +47002,6 @@ quic://dns.adguard-dns.com
 [/hmzx163.com/]https://doh.pub/dns-query
 [/hn-binglang.com/]https://doh.pub/dns-query
 [/hn-cbec.com/]https://doh.pub/dns-query
-[/hn-fa.com/]https://doh.pub/dns-query
 [/hn-hwqjxh.com/]https://doh.pub/dns-query
 [/hn-medical.com/]https://doh.pub/dns-query
 [/hn-xqlhw.com/]https://doh.pub/dns-query
@@ -47456,7 +47386,6 @@ quic://dns.adguard-dns.com
 [/hnxingda.com/]https://doh.pub/dns-query
 [/hnxljkj.com/]https://doh.pub/dns-query
 [/hnxmht.com/]https://doh.pub/dns-query
-[/hnxtjyxy.com/]https://doh.pub/dns-query
 [/hnxtkg.com/]https://doh.pub/dns-query
 [/hnxttv.com/]https://doh.pub/dns-query
 [/hnxunch.com/]https://doh.pub/dns-query
@@ -47868,7 +47797,6 @@ quic://dns.adguard-dns.com
 [/hoodinn.com/]https://doh.pub/dns-query
 [/hoodong.com/]https://doh.pub/dns-query
 [/hooenergy.com/]https://doh.pub/dns-query
-[/hoogg.com/]https://doh.pub/dns-query
 [/hooh5.com/]https://doh.pub/dns-query
 [/hookan.com/]https://doh.pub/dns-query
 [/hoolai.com/]https://doh.pub/dns-query
@@ -48265,7 +48193,6 @@ quic://dns.adguard-dns.com
 [/hrcfc.com/]https://doh.pub/dns-query
 [/hrday.com/]https://doh.pub/dns-query
 [/hrddqc.com/]https://doh.pub/dns-query
-[/hrdnkj.com/]https://doh.pub/dns-query
 [/href.lu/]https://doh.pub/dns-query
 [/hrenh.com/]https://doh.pub/dns-query
 [/hrexam.com/]https://doh.pub/dns-query
@@ -48327,7 +48254,6 @@ quic://dns.adguard-dns.com
 [/hsbbs.com/]https://doh.pub/dns-query
 [/hsbdc.com/]https://doh.pub/dns-query
 [/hsbianma.com/]https://doh.pub/dns-query
-[/hsbiao.com/]https://doh.pub/dns-query
 [/hscarbonfibre.com/]https://doh.pub/dns-query
 [/hscbw.com/]https://doh.pub/dns-query
 [/hscc.com/]https://doh.pub/dns-query
@@ -49499,7 +49425,6 @@ quic://dns.adguard-dns.com
 [/huiwenda.com/]https://doh.pub/dns-query
 [/huiwenjidian.com/]https://doh.pub/dns-query
 [/huiwww.com/]https://doh.pub/dns-query
-[/huixiang360.com/]https://doh.pub/dns-query
 [/huixianginvest.com/]https://doh.pub/dns-query
 [/huixiangtiandi.com/]https://doh.pub/dns-query
 [/huixiaoer.com/]https://doh.pub/dns-query
@@ -49572,7 +49497,6 @@ quic://dns.adguard-dns.com
 [/hujingnb.com/]https://doh.pub/dns-query
 [/huke88.com/]https://doh.pub/dns-query
 [/hukecs.com/]https://doh.pub/dns-query
-[/hukecwx.com/]https://doh.pub/dns-query
 [/hukelc.com/]https://doh.pub/dns-query
 [/hukenb.com/]https://doh.pub/dns-query
 [/hukexyy.com/]https://doh.pub/dns-query
@@ -50730,7 +50654,6 @@ quic://dns.adguard-dns.com
 [/hzxded.com/]https://doh.pub/dns-query
 [/hzxdfpr.com/]https://doh.pub/dns-query
 [/hzxdship.com/]https://doh.pub/dns-query
-[/hzxhgy.com/]https://doh.pub/dns-query
 [/hzxiangbin.com/]https://doh.pub/dns-query
 [/hzxiangshang.com/]https://doh.pub/dns-query
 [/hzxiaoya.com/]https://doh.pub/dns-query
@@ -51962,7 +51885,6 @@ quic://dns.adguard-dns.com
 [/iiycy.com/]https://doh.pub/dns-query
 [/iiyi.com/]https://doh.pub/dns-query
 [/iiyiyi.com/]https://doh.pub/dns-query
-[/ijac.net/]https://doh.pub/dns-query
 [/ijatv.com/]https://doh.pub/dns-query
 [/ijh.cc/]https://doh.pub/dns-query
 [/ijheng.com/]https://doh.pub/dns-query
@@ -52567,6 +52489,7 @@ quic://dns.adguard-dns.com
 [/initroot.com/]https://doh.pub/dns-query
 [/initrr.com/]https://doh.pub/dns-query
 [/initvv.com/]https://doh.pub/dns-query
+[/initxb.com/]https://doh.pub/dns-query
 [/initxx.com/]https://doh.pub/dns-query
 [/inja.com/]https://doh.pub/dns-query
 [/injectionmachine.com/]https://doh.pub/dns-query
@@ -52839,6 +52762,7 @@ quic://dns.adguard-dns.com
 [/ip33.com/]https://doh.pub/dns-query
 [/ip3366.net/]https://doh.pub/dns-query
 [/ip518.com/]https://doh.pub/dns-query
+[/ip6.plus/]https://doh.pub/dns-query
 [/ip66.com/]https://doh.pub/dns-query
 [/ip66.net/]https://doh.pub/dns-query
 [/ip669.com/]https://doh.pub/dns-query
@@ -52944,6 +52868,7 @@ quic://dns.adguard-dns.com
 [/ipr007.com/]https://doh.pub/dns-query
 [/ipr114.net/]https://doh.pub/dns-query
 [/ipr123.com/]https://doh.pub/dns-query
+[/iprabc.com/]https://doh.pub/dns-query
 [/iprchn.com/]https://doh.pub/dns-query
 [/iprdaily.com/]https://doh.pub/dns-query
 [/iprdp.net/]https://doh.pub/dns-query
@@ -52967,6 +52892,7 @@ quic://dns.adguard-dns.com
 [/ipuu.net/]https://doh.pub/dns-query
 [/ipv4.host/]https://doh.pub/dns-query
 [/ipv4dns.com/]https://doh.pub/dns-query
+[/ipv6-only.com/]https://doh.pub/dns-query
 [/ipv6dns.com/]https://doh.pub/dns-query
 [/ipv6testingcenter.com/]https://doh.pub/dns-query
 [/ipwuji.com/]https://doh.pub/dns-query
@@ -54625,7 +54551,6 @@ quic://dns.adguard-dns.com
 [/jhyusqo.com/]https://doh.pub/dns-query
 [/jhyz.net/]https://doh.pub/dns-query
 [/jhzdhjt.com/]https://doh.pub/dns-query
-[/jhzgwx.com/]https://doh.pub/dns-query
 [/jhzhizao.com/]https://doh.pub/dns-query
 [/jhzhkj.com/]https://doh.pub/dns-query
 [/jhzhuji.com/]https://doh.pub/dns-query
@@ -55237,7 +55162,6 @@ quic://dns.adguard-dns.com
 [/jieri2.com/]https://doh.pub/dns-query
 [/jierili.com/]https://doh.pub/dns-query
 [/jieruchaosheng.com/]https://doh.pub/dns-query
-[/jieruitech.info/]https://doh.pub/dns-query
 [/jiese.org/]https://doh.pub/dns-query
 [/jiesen365.com/]https://doh.pub/dns-query
 [/jieshangwei.com/]https://doh.pub/dns-query
@@ -55569,7 +55493,6 @@ quic://dns.adguard-dns.com
 [/jingmiliangju.com/]https://doh.pub/dns-query
 [/jingnei.net/]https://doh.pub/dns-query
 [/jingnengpower.com/]https://doh.pub/dns-query
-[/jingningsms.com/]https://doh.pub/dns-query
 [/jingoal.com/]https://doh.pub/dns-query
 [/jingos.com/]https://doh.pub/dns-query
 [/jingpai.com/]https://doh.pub/dns-query
@@ -55766,7 +55689,6 @@ quic://dns.adguard-dns.com
 [/jinqianguan.com/]https://doh.pub/dns-query
 [/jinqianma.com/]https://doh.pub/dns-query
 [/jinqiaojob.com/]https://doh.pub/dns-query
-[/jinqiaolian.com/]https://doh.pub/dns-query
 [/jinqiaopu.com/]https://doh.pub/dns-query
 [/jinqiexia.com/]https://doh.pub/dns-query
 [/jinqigroup.com/]https://doh.pub/dns-query
@@ -56094,7 +56016,6 @@ quic://dns.adguard-dns.com
 [/jiuse.cloud/]https://doh.pub/dns-query
 [/jiuse2.cloud/]https://doh.pub/dns-query
 [/jiuse3.cloud/]https://doh.pub/dns-query
-[/jiushechi.com/]https://doh.pub/dns-query
 [/jiushengas.com/]https://doh.pub/dns-query
 [/jiushiadx.com/]https://doh.pub/dns-query
 [/jiushigong.com/]https://doh.pub/dns-query
@@ -56280,7 +56201,6 @@ quic://dns.adguard-dns.com
 [/jjiehao.com/]https://doh.pub/dns-query
 [/jjinfo.com/]https://doh.pub/dns-query
 [/jjisp.com/]https://doh.pub/dns-query
-[/jjj.ee/]https://doh.pub/dns-query
 [/jjj555.com/]https://doh.pub/dns-query
 [/jjjaaa.com/]https://doh.pub/dns-query
 [/jjjcjt.com/]https://doh.pub/dns-query
@@ -56839,7 +56759,6 @@ quic://dns.adguard-dns.com
 [/jojog.com/]https://doh.pub/dns-query
 [/jojoread.com/]https://doh.pub/dns-query
 [/jojoreading.com/]https://doh.pub/dns-query
-[/jojy.net/]https://doh.pub/dns-query
 [/joke66.com/]https://doh.pub/dns-query
 [/jokecommunity.com/]https://doh.pub/dns-query
 [/jokecommunity.net/]https://doh.pub/dns-query
@@ -56861,7 +56780,6 @@ quic://dns.adguard-dns.com
 [/jonsbo.com/]https://doh.pub/dns-query
 [/jonvie.com/]https://doh.pub/dns-query
 [/jooancloud.com/]https://doh.pub/dns-query
-[/jooau.com/]https://doh.pub/dns-query
 [/joobot.com/]https://doh.pub/dns-query
 [/jooioo.com/]https://doh.pub/dns-query
 [/joojcc.com/]https://doh.pub/dns-query
@@ -57201,7 +57119,6 @@ quic://dns.adguard-dns.com
 [/jscrg.com/]https://doh.pub/dns-query
 [/jscsbz.com/]https://doh.pub/dns-query
 [/jscsdr.com/]https://doh.pub/dns-query
-[/jscsedu.com/]https://doh.pub/dns-query
 [/jscsfc.com/]https://doh.pub/dns-query
 [/jscssimg.com/]https://doh.pub/dns-query
 [/jscts.com/]https://doh.pub/dns-query
@@ -57446,13 +57363,13 @@ quic://dns.adguard-dns.com
 [/jsmfk.com/]https://doh.pub/dns-query
 [/jsmian.com/]https://doh.pub/dns-query
 [/jsmjys.com/]https://doh.pub/dns-query
-[/jsmkls.com/]https://doh.pub/dns-query
 [/jsmkyy.com/]https://doh.pub/dns-query
 [/jsmo.xin/]https://doh.pub/dns-query
 [/jsmodeling.com/]https://doh.pub/dns-query
 [/jsmolfa.com/]https://doh.pub/dns-query
 [/jsmrmf.com/]https://doh.pub/dns-query
 [/jsmsg.com/]https://doh.pub/dns-query
+[/jsmuseum.com/]https://doh.pub/dns-query
 [/jsmxgs.com/]https://doh.pub/dns-query
 [/jsmxkj.com/]https://doh.pub/dns-query
 [/jsmxw.com/]https://doh.pub/dns-query
@@ -57879,7 +57796,6 @@ quic://dns.adguard-dns.com
 [/jueqijy.com/]https://doh.pub/dns-query
 [/juequling.com/]https://doh.pub/dns-query
 [/juerguea.com/]https://doh.pub/dns-query
-[/juesheng.com/]https://doh.pub/dns-query
 [/juewei.com/]https://doh.pub/dns-query
 [/juexiang.com/]https://doh.pub/dns-query
 [/juexiaotime.com/]https://doh.pub/dns-query
@@ -58646,6 +58562,7 @@ quic://dns.adguard-dns.com
 [/jyzb01.com/]https://doh.pub/dns-query
 [/jyzc.com/]https://doh.pub/dns-query
 [/jyzhongg.com/]https://doh.pub/dns-query
+[/jyzmd.com/]https://doh.pub/dns-query
 [/jyzz666.com/]https://doh.pub/dns-query
 [/jyzzdq.com/]https://doh.pub/dns-query
 [/jyzzx.com/]https://doh.pub/dns-query
@@ -60153,7 +60070,6 @@ quic://dns.adguard-dns.com
 [/kmgybsr.com/]https://doh.pub/dns-query
 [/kmhpc.net/]https://doh.pub/dns-query
 [/kmhwtz.com/]https://doh.pub/dns-query
-[/kmhybz.com/]https://doh.pub/dns-query
 [/kmimall.com/]https://doh.pub/dns-query
 [/kmjt.net/]https://doh.pub/dns-query
 [/kmlcl.com/]https://doh.pub/dns-query
@@ -60716,7 +60632,6 @@ quic://dns.adguard-dns.com
 [/kuaile-u.com/]https://doh.pub/dns-query
 [/kuaile8.com/]https://doh.pub/dns-query
 [/kuaile800.com/]https://doh.pub/dns-query
-[/kuailebz.com/]https://doh.pub/dns-query
 [/kuailedo.com/]https://doh.pub/dns-query
 [/kuailekaishi.com/]https://doh.pub/dns-query
 [/kuailelunwen.com/]https://doh.pub/dns-query
@@ -61497,6 +61412,7 @@ quic://dns.adguard-dns.com
 [/langgine.com/]https://doh.pub/dns-query
 [/langhao-medical-platform.com/]https://doh.pub/dns-query
 [/langhuansoft.net/]https://doh.pub/dns-query
+[/langjian.work/]https://doh.pub/dns-query
 [/langkaiwenhua.com/]https://doh.pub/dns-query
 [/langkawipower.com/]https://doh.pub/dns-query
 [/langke.com/]https://doh.pub/dns-query
@@ -62343,7 +62259,6 @@ quic://dns.adguard-dns.com
 [/leiyunge.net/]https://doh.pub/dns-query
 [/lejiachao.com/]https://doh.pub/dns-query
 [/lejian.com/]https://doh.pub/dns-query
-[/lejianweike.com/]https://doh.pub/dns-query
 [/lejiao.tv/]https://doh.pub/dns-query
 [/lejiaolexue.com/]https://doh.pub/dns-query
 [/lejiaotech.com/]https://doh.pub/dns-query
@@ -63783,7 +63698,6 @@ quic://dns.adguard-dns.com
 [/liuzhourm.com/]https://doh.pub/dns-query
 [/liuzhousteel.com/]https://doh.pub/dns-query
 [/liuzhuni.com/]https://doh.pub/dns-query
-[/liuzitang.com/]https://doh.pub/dns-query
 [/liuziyoudu.com/]https://doh.pub/dns-query
 [/liuzongyang.com/]https://doh.pub/dns-query
 [/liuzy88.com/]https://doh.pub/dns-query
@@ -63818,7 +63732,6 @@ quic://dns.adguard-dns.com
 [/liwanght.com/]https://doh.pub/dns-query
 [/liweiauto.com/]https://doh.pub/dns-query
 [/liweicar.com/]https://doh.pub/dns-query
-[/liweijia.com/]https://doh.pub/dns-query
 [/liweijituan.com/]https://doh.pub/dns-query
 [/liweiliang.com/]https://doh.pub/dns-query
 [/liwenzhou.com/]https://doh.pub/dns-query
@@ -63965,7 +63878,6 @@ quic://dns.adguard-dns.com
 [/ljxww.com/]https://doh.pub/dns-query
 [/ljy365.com/]https://doh.pub/dns-query
 [/ljz-talentapt.com/]https://doh.pub/dns-query
-[/ljzc.net/]https://doh.pub/dns-query
 [/ljzfin.com/]https://doh.pub/dns-query
 [/lk-jd.com/]https://doh.pub/dns-query
 [/lk0355.com/]https://doh.pub/dns-query
@@ -64018,7 +63930,6 @@ quic://dns.adguard-dns.com
 [/llguangli.com/]https://doh.pub/dns-query
 [/llguangli30.com/]https://doh.pub/dns-query
 [/llhlkftzjt.com/]https://doh.pub/dns-query
-[/llhtcn.com/]https://doh.pub/dns-query
 [/llidc.com/]https://doh.pub/dns-query
 [/llinkslaw.com/]https://doh.pub/dns-query
 [/lljgame.com/]https://doh.pub/dns-query
@@ -64245,7 +64156,6 @@ quic://dns.adguard-dns.com
 [/logistics.deploy.akamai.com/]https://doh.pub/dns-query
 [/logisticstech.com/]https://doh.pub/dns-query
 [/logo-emblem.com/]https://doh.pub/dns-query
-[/logo123.com/]https://doh.pub/dns-query
 [/logo123.net/]https://doh.pub/dns-query
 [/logo2008.net/]https://doh.pub/dns-query
 [/logo888.com/]https://doh.pub/dns-query
@@ -64295,6 +64205,7 @@ quic://dns.adguard-dns.com
 [/lolicon.team/]https://doh.pub/dns-query
 [/loliloli.moe/]https://doh.pub/dns-query
 [/loliloli.net/]https://doh.pub/dns-query
+[/lolimoe.cc/]https://doh.pub/dns-query
 [/lolitawardrobe.com/]https://doh.pub/dns-query
 [/loljy.com/]https://doh.pub/dns-query
 [/lolkeng.com/]https://doh.pub/dns-query
@@ -65530,7 +65441,6 @@ quic://dns.adguard-dns.com
 [/lyihub.com/]https://doh.pub/dns-query
 [/lyilife.com/]https://doh.pub/dns-query
 [/lyjiuzhou.com/]https://doh.pub/dns-query
-[/lyjj.net/]https://doh.pub/dns-query
 [/lyjksw.com/]https://doh.pub/dns-query
 [/lyjob.net/]https://doh.pub/dns-query
 [/lyjunshi.com/]https://doh.pub/dns-query
@@ -66047,6 +65957,7 @@ quic://dns.adguard-dns.com
 [/magicw3.com/]https://doh.pub/dns-query
 [/magicwatchface.com/]https://doh.pub/dns-query
 [/magicwinmail.com/]https://doh.pub/dns-query
+[/magireco.moe/]https://doh.pub/dns-query
 [/magma.ink/]https://doh.pub/dns-query
 [/magnotel.com/]https://doh.pub/dns-query
 [/magook.com/]https://doh.pub/dns-query
@@ -66200,7 +66111,6 @@ quic://dns.adguard-dns.com
 [/major-epoch.com/]https://doh.pub/dns-query
 [/majorbio.com/]https://doh.pub/dns-query
 [/majorsec.com/]https://doh.pub/dns-query
-[/majorserving.com/]https://doh.pub/dns-query
 [/majsoul.com/]https://doh.pub/dns-query
 [/maka.im/]https://doh.pub/dns-query
 [/maka.mobi/]https://doh.pub/dns-query
@@ -66274,6 +66184,7 @@ quic://dns.adguard-dns.com
 [/mamicode.com/]https://doh.pub/dns-query
 [/mamilist.com/]https://doh.pub/dns-query
 [/mamioo.com/]https://doh.pub/dns-query
+[/mamoe.net/]https://doh.pub/dns-query
 [/mamsh.org/]https://doh.pub/dns-query
 [/mamumall.com/]https://doh.pub/dns-query
 [/man6.org/]https://doh.pub/dns-query
@@ -67035,6 +66946,8 @@ quic://dns.adguard-dns.com
 [/megobike.com/]https://doh.pub/dns-query
 [/megou8.com/]https://doh.pub/dns-query
 [/meguo.com/]https://doh.pub/dns-query
+[/meguri.app/]https://doh.pub/dns-query
+[/meguri.moe/]https://doh.pub/dns-query
 [/megvii-inc.com/]https://doh.pub/dns-query
 [/megvii.com/]https://doh.pub/dns-query
 [/meheco.com/]https://doh.pub/dns-query
@@ -68255,6 +68168,7 @@ quic://dns.adguard-dns.com
 [/miquapp.com/]https://doh.pub/dns-query
 [/mir4399.com/]https://doh.pub/dns-query
 [/mir6.com/]https://doh.pub/dns-query
+[/miracdn.com/]https://doh.pub/dns-query
 [/miraclelaser.com/]https://doh.pub/dns-query
 [/miracleplus.com/]https://doh.pub/dns-query
 [/miraclevision.com/]https://doh.pub/dns-query
@@ -68541,7 +68455,6 @@ quic://dns.adguard-dns.com
 [/mmkkiivv.com/]https://doh.pub/dns-query
 [/mmlessin.com/]https://doh.pub/dns-query
 [/mmllllasjd.com/]https://doh.pub/dns-query
-[/mmloo.com/]https://doh.pub/dns-query
 [/mmmglobalgroup.com/]https://doh.pub/dns-query
 [/mmmmmmm.com/]https://doh.pub/dns-query
 [/mmmnote.com/]https://doh.pub/dns-query
@@ -68727,7 +68640,6 @@ quic://dns.adguard-dns.com
 [/moe321.com/]https://doh.pub/dns-query
 [/moeblog.vip/]https://doh.pub/dns-query
 [/moeclub.org/]https://doh.pub/dns-query
-[/moecoder.com/]https://doh.pub/dns-query
 [/moedot.net/]https://doh.pub/dns-query
 [/moeelf.com/]https://doh.pub/dns-query
 [/moefactory.com/]https://doh.pub/dns-query
@@ -69576,7 +69488,6 @@ quic://dns.adguard-dns.com
 [/mxdraw3d.com/]https://doh.pub/dns-query
 [/mxdx.net/]https://doh.pub/dns-query
 [/mxdzlk.com/]https://doh.pub/dns-query
-[/mxeosbvt.com/]https://doh.pub/dns-query
 [/mxew.com/]https://doh.pub/dns-query
 [/mxfy.com/]https://doh.pub/dns-query
 [/mxgogo.com/]https://doh.pub/dns-query
@@ -70363,7 +70274,6 @@ quic://dns.adguard-dns.com
 [/natergy.com/]https://doh.pub/dns-query
 [/natertech.com/]https://doh.pub/dns-query
 [/natfrp.com/]https://doh.pub/dns-query
-[/natiandj.com/]https://doh.pub/dns-query
 [/nationalchip.com/]https://doh.pub/dns-query
 [/nationalee.com/]https://doh.pub/dns-query
 [/nationsky.com/]https://doh.pub/dns-query
@@ -72204,7 +72114,6 @@ quic://dns.adguard-dns.com
 [/nnlfcm.com/]https://doh.pub/dns-query
 [/nnlghbkj.com/]https://doh.pub/dns-query
 [/nnlgjt.com/]https://doh.pub/dns-query
-[/nnlianlida.com/]https://doh.pub/dns-query
 [/nnlib.com/]https://doh.pub/dns-query
 [/nnljhb.com/]https://doh.pub/dns-query
 [/nnljoa.com/]https://doh.pub/dns-query
@@ -72456,7 +72365,6 @@ quic://dns.adguard-dns.com
 [/nongkeyu.com/]https://doh.pub/dns-query
 [/nongli.com/]https://doh.pub/dns-query
 [/nongli.net/]https://doh.pub/dns-query
-[/nongli114.com/]https://doh.pub/dns-query
 [/nonglirili.net/]https://doh.pub/dns-query
 [/nongmiao.com/]https://doh.pub/dns-query
 [/nongmintv.com/]https://doh.pub/dns-query
@@ -72826,6 +72734,7 @@ quic://dns.adguard-dns.com
 [/numans.cc/]https://doh.pub/dns-query
 [/numemory.com/]https://doh.pub/dns-query
 [/nunaios.com/]https://doh.pub/dns-query
+[/nuo5.com/]https://doh.pub/dns-query
 [/nuoan.com/]https://doh.pub/dns-query
 [/nuobeiliao.com/]https://doh.pub/dns-query
 [/nuobeirack.com/]https://doh.pub/dns-query
@@ -73993,6 +73902,7 @@ quic://dns.adguard-dns.com
 [/ouapi.com/]https://doh.pub/dns-query
 [/oubauneereid.com/]https://doh.pub/dns-query
 [/oubk.com/]https://doh.pub/dns-query
+[/ouchang.net/]https://doh.pub/dns-query
 [/ouchengzl.com/]https://doh.pub/dns-query
 [/ouchgzee.com/]https://doh.pub/dns-query
 [/oucuibo.com/]https://doh.pub/dns-query
@@ -74222,7 +74132,6 @@ quic://dns.adguard-dns.com
 [/ozonbigsell.com/]https://doh.pub/dns-query
 [/ozoninfo.com/]https://doh.pub/dns-query
 [/ozsmartbuy.com/]https://doh.pub/dns-query
-[/ozsp.com/]https://doh.pub/dns-query
 [/ozxw.com/]https://doh.pub/dns-query
 [/ozzyad.com/]https://doh.pub/dns-query
 [/p-an.com/]https://doh.pub/dns-query
@@ -74347,7 +74256,6 @@ quic://dns.adguard-dns.com
 [/paixin.com/]https://doh.pub/dns-query
 [/paixueche.net/]https://doh.pub/dns-query
 [/paiyidan.net/]https://doh.pub/dns-query
-[/paiyiws.com/]https://doh.pub/dns-query
 [/paiyuyy.com/]https://doh.pub/dns-query
 [/paizhaofanyi.net/]https://doh.pub/dns-query
 [/paizhe.com/]https://doh.pub/dns-query
@@ -75313,7 +75221,6 @@ quic://dns.adguard-dns.com
 [/pig4cloud.com/]https://doh.pub/dns-query
 [/pig66.com/]https://doh.pub/dns-query
 [/pigai.org/]https://doh.pub/dns-query
-[/pigbt.com/]https://doh.pub/dns-query
 [/pigcms.com/]https://doh.pub/dns-query
 [/pighaihe.com/]https://doh.pub/dns-query
 [/pigji.com/]https://doh.pub/dns-query
@@ -75345,6 +75252,7 @@ quic://dns.adguard-dns.com
 [/pin5i.com/]https://doh.pub/dns-query
 [/pinan1688.com/]https://doh.pub/dns-query
 [/pinbaitai.com/]https://doh.pub/dns-query
+[/pinbaiyan.com/]https://doh.pub/dns-query
 [/pinbang.com/]https://doh.pub/dns-query
 [/pinbayun.com/]https://doh.pub/dns-query
 [/pinble.com/]https://doh.pub/dns-query
@@ -76545,7 +76453,6 @@ quic://dns.adguard-dns.com
 [/pvc123.com/]https://doh.pub/dns-query
 [/pvcliping.com/]https://doh.pub/dns-query
 [/pvk2e.icu/]https://doh.pub/dns-query
-[/pvmeng.com/]https://doh.pub/dns-query
 [/pvpin.com/]https://doh.pub/dns-query
 [/pvz.moe/]https://doh.pub/dns-query
 [/pw-partners.com/]https://doh.pub/dns-query
@@ -77012,7 +76919,6 @@ quic://dns.adguard-dns.com
 [/qdzxyy.com/]https://doh.pub/dns-query
 [/qdzz.com/]https://doh.pub/dns-query
 [/qe32.com/]https://doh.pub/dns-query
-[/qebgcdcjr000.fun/]https://doh.pub/dns-query
 [/qebk.com/]https://doh.pub/dns-query
 [/qechu.com/]https://doh.pub/dns-query
 [/qeebike.com/]https://doh.pub/dns-query
@@ -77023,18 +76929,15 @@ quic://dns.adguard-dns.com
 [/qeerd.com/]https://doh.pub/dns-query
 [/qefee.com/]https://doh.pub/dns-query
 [/qegcdn.com/]https://doh.pub/dns-query
-[/qekgcdcjr000.fun/]https://doh.pub/dns-query
 [/qeoagphm.com/]https://doh.pub/dns-query
 [/qeodns.com/]https://doh.pub/dns-query
 [/qeodns.net/]https://doh.pub/dns-query
-[/qeogcdcjr000.fun/]https://doh.pub/dns-query
 [/qeqnet.com/]https://doh.pub/dns-query
 [/qera.online/]https://doh.pub/dns-query
 [/qerwsoft.com/]https://doh.pub/dns-query
 [/qeteshcn.com/]https://doh.pub/dns-query
 [/qeto.com/]https://doh.pub/dns-query
 [/qetoken.com/]https://doh.pub/dns-query
-[/qeugcdcjr000.fun/]https://doh.pub/dns-query
 [/qeyopxb.com/]https://doh.pub/dns-query
 [/qf-meter.com/]https://doh.pub/dns-query
 [/qfang.com/]https://doh.pub/dns-query
@@ -77249,7 +77152,6 @@ quic://dns.adguard-dns.com
 [/qiang100.com/]https://doh.pub/dns-query
 [/qiangchezu.com/]https://doh.pub/dns-query
 [/qiangchuan.com/]https://doh.pub/dns-query
-[/qiangdun.com/]https://doh.pub/dns-query
 [/qiangfu.xyz/]https://doh.pub/dns-query
 [/qianggen.com/]https://doh.pub/dns-query
 [/qianggen.net/]https://doh.pub/dns-query
@@ -77369,7 +77271,6 @@ quic://dns.adguard-dns.com
 [/qianyinedu.com/]https://doh.pub/dns-query
 [/qianyingzhi.com/]https://doh.pub/dns-query
 [/qianyuangx.com/]https://doh.pub/dns-query
-[/qianyuanshijie.com/]https://doh.pub/dns-query
 [/qianyuewenhua.xyz/]https://doh.pub/dns-query
 [/qianyuncare.com/]https://doh.pub/dns-query
 [/qianyuwang.com/]https://doh.pub/dns-query
@@ -77773,7 +77674,6 @@ quic://dns.adguard-dns.com
 [/qingshigame.com/]https://doh.pub/dns-query
 [/qingshou.online/]https://doh.pub/dns-query
 [/qingshow.net/]https://doh.pub/dns-query
-[/qingshu.live/]https://doh.pub/dns-query
 [/qingshuo.com/]https://doh.pub/dns-query
 [/qingshuxuetang.com/]https://doh.pub/dns-query
 [/qingsongcdn.com/]https://doh.pub/dns-query
@@ -78605,7 +78505,6 @@ quic://dns.adguard-dns.com
 [/qto-pay.com/]https://doh.pub/dns-query
 [/qtonghua.com/]https://doh.pub/dns-query
 [/qtool.net/]https://doh.pub/dns-query
-[/qtroytj33.fun/]https://doh.pub/dns-query
 [/qtrun.com/]https://doh.pub/dns-query
 [/qtshe.com/]https://doh.pub/dns-query
 [/qtshisan.com/]https://doh.pub/dns-query
@@ -78686,7 +78585,6 @@ quic://dns.adguard-dns.com
 [/quansucloud.com/]https://doh.pub/dns-query
 [/quantacn.com/]https://doh.pub/dns-query
 [/quantaoyougou.com/]https://doh.pub/dns-query
-[/quantiku.org/]https://doh.pub/dns-query
 [/quantil.com/]https://doh.pub/dns-query
 [/quantilcn.com/]https://doh.pub/dns-query
 [/quantilcn.net/]https://doh.pub/dns-query
@@ -79705,7 +79603,6 @@ quic://dns.adguard-dns.com
 [/rc168.com/]https://doh.pub/dns-query
 [/rc3cr.com/]https://doh.pub/dns-query
 [/rc775.com/]https://doh.pub/dns-query
-[/rc86.net/]https://doh.pub/dns-query
 [/rcaiv.com/]https://doh.pub/dns-query
 [/rcbc888.com/]https://doh.pub/dns-query
 [/rcbuying.com/]https://doh.pub/dns-query
@@ -80708,7 +80605,6 @@ quic://dns.adguard-dns.com
 [/rqkr.com/]https://doh.pub/dns-query
 [/rqrcw.com/]https://doh.pub/dns-query
 [/rqrlxx.com/]https://doh.pub/dns-query
-[/rqroytj33.fun/]https://doh.pub/dns-query
 [/rqyy.com/]https://doh.pub/dns-query
 [/rqyz.com/]https://doh.pub/dns-query
 [/rr-sc.com/]https://doh.pub/dns-query
@@ -80834,7 +80730,6 @@ quic://dns.adguard-dns.com
 [/rtjxssj.com/]https://doh.pub/dns-query
 [/rtmap.com/]https://doh.pub/dns-query
 [/rtmobi.cc/]https://doh.pub/dns-query
-[/rtroytj33.fun/]https://doh.pub/dns-query
 [/rtrrx.com/]https://doh.pub/dns-query
 [/rtsaas.com/]https://doh.pub/dns-query
 [/rtsac.org/]https://doh.pub/dns-query
@@ -81137,7 +81032,6 @@ quic://dns.adguard-dns.com
 [/ruyu.com/]https://doh.pub/dns-query
 [/ruyuecx.com/]https://doh.pub/dns-query
 [/ruyuexs.com/]https://doh.pub/dns-query
-[/ruzhipin.cc/]https://doh.pub/dns-query
 [/ruzong.com/]https://doh.pub/dns-query
 [/ruzw.com/]https://doh.pub/dns-query
 [/rv28.com/]https://doh.pub/dns-query
@@ -83185,7 +83079,6 @@ quic://dns.adguard-dns.com
 [/sf-zs.net/]https://doh.pub/dns-query
 [/sf007.com/]https://doh.pub/dns-query
 [/sf024.com/]https://doh.pub/dns-query
-[/sf0jm.xyz/]https://doh.pub/dns-query
 [/sf2021.com/]https://doh.pub/dns-query
 [/sf34.com/]https://doh.pub/dns-query
 [/sf888.net/]https://doh.pub/dns-query
@@ -83297,7 +83190,6 @@ quic://dns.adguard-dns.com
 [/sgllk.com/]https://doh.pub/dns-query
 [/sgmart.com/]https://doh.pub/dns-query
 [/sgmlink.com/]https://doh.pub/dns-query
-[/sgmob.net/]https://doh.pub/dns-query
 [/sgmsonline.com/]https://doh.pub/dns-query
 [/sgmw.com/]https://doh.pub/dns-query
 [/sgmwlu.com/]https://doh.pub/dns-query
@@ -84029,7 +83921,6 @@ quic://dns.adguard-dns.com
 [/sheentec.com/]https://doh.pub/dns-query
 [/sheep11.com/]https://doh.pub/dns-query
 [/sheepmats.com/]https://doh.pub/dns-query
-[/shehuizeren100.com/]https://doh.pub/dns-query
 [/sheinet.com/]https://doh.pub/dns-query
 [/sheji.com/]https://doh.pub/dns-query
 [/shejiadoors.com/]https://doh.pub/dns-query
@@ -84154,7 +84045,6 @@ quic://dns.adguard-dns.com
 [/shengshizhicheng.com/]https://doh.pub/dns-query
 [/shengtai.com/]https://doh.pub/dns-query
 [/shengtaigroup.net/]https://doh.pub/dns-query
-[/shengtangtextile.com/]https://doh.pub/dns-query
 [/shengtian.com/]https://doh.pub/dns-query
 [/shengtiangroup.com/]https://doh.pub/dns-query
 [/shengtongedu.com/]https://doh.pub/dns-query
@@ -84733,7 +84623,6 @@ quic://dns.adguard-dns.com
 [/shjingmi.com/]https://doh.pub/dns-query
 [/shjingxu.com/]https://doh.pub/dns-query
 [/shjinnengzuche.com/]https://doh.pub/dns-query
-[/shjkcable.com/]https://doh.pub/dns-query
 [/shjlnzyy.com/]https://doh.pub/dns-query
 [/shjob.work/]https://doh.pub/dns-query
 [/shjsit.com/]https://doh.pub/dns-query
@@ -86233,7 +86122,6 @@ quic://dns.adguard-dns.com
 [/siweiw.com/]https://doh.pub/dns-query
 [/siwuprint.com/]https://doh.pub/dns-query
 [/six.club/]https://doh.pub/dns-query
-[/sixdeviations.com/]https://doh.pub/dns-query
 [/sixflower.com/]https://doh.pub/dns-query
 [/sixianchina.com/]https://doh.pub/dns-query
 [/sixiang.im/]https://doh.pub/dns-query
@@ -86409,7 +86297,6 @@ quic://dns.adguard-dns.com
 [/sjzshunbang.com/]https://doh.pub/dns-query
 [/sjzslnyhy.com/]https://doh.pub/dns-query
 [/sjzswtz.com/]https://doh.pub/dns-query
-[/sjzsyjxx.com/]https://doh.pub/dns-query
 [/sjzszz.com/]https://doh.pub/dns-query
 [/sjztd.com/]https://doh.pub/dns-query
 [/sjzthdz.com/]https://doh.pub/dns-query
@@ -86637,6 +86524,7 @@ quic://dns.adguard-dns.com
 [/slthxx.com/]https://doh.pub/dns-query
 [/sltv.net/]https://doh.pub/dns-query
 [/sltxantonline.com/]https://doh.pub/dns-query
+[/sluyu.com/]https://doh.pub/dns-query
 [/slwh-dfh.com/]https://doh.pub/dns-query
 [/slwwedding.com/]https://doh.pub/dns-query
 [/slybjp.com/]https://doh.pub/dns-query
@@ -87211,7 +87099,6 @@ quic://dns.adguard-dns.com
 [/somacisgraphic.hk/]https://doh.pub/dns-query
 [/somama.com/]https://doh.pub/dns-query
 [/somamobi.com/]https://doh.pub/dns-query
-[/somcool.com/]https://doh.pub/dns-query
 [/somd5.com/]https://doh.pub/dns-query
 [/somdom.com/]https://doh.pub/dns-query
 [/someabcd.com/]https://doh.pub/dns-query
@@ -88386,7 +88273,6 @@ quic://dns.adguard-dns.com
 [/sugou.com/]https://doh.pub/dns-query
 [/suguangxx.com/]https://doh.pub/dns-query
 [/sugwedding.com/]https://doh.pub/dns-query
-[/suhaodian.com/]https://doh.pub/dns-query
 [/suhaoyy.com/]https://doh.pub/dns-query
 [/suhedj.com/]https://doh.pub/dns-query
 [/suhedz.com/]https://doh.pub/dns-query
@@ -88703,7 +88589,6 @@ quic://dns.adguard-dns.com
 [/suofeiya.com/]https://doh.pub/dns-query
 [/suofeiyashop.com/]https://doh.pub/dns-query
 [/suoge.net/]https://doh.pub/dns-query
-[/suokao.com/]https://doh.pub/dns-query
 [/suolong.com/]https://doh.pub/dns-query
 [/suoluomei.com/]https://doh.pub/dns-query
 [/suorang.com/]https://doh.pub/dns-query
@@ -89384,6 +89269,7 @@ quic://dns.adguard-dns.com
 [/sylincom.com/]https://doh.pub/dns-query
 [/sylixos.com/]https://doh.pub/dns-query
 [/sylm2022.com/]https://doh.pub/dns-query
+[/sylmyl.com/]https://doh.pub/dns-query
 [/sylnyx.com/]https://doh.pub/dns-query
 [/syltgl.com/]https://doh.pub/dns-query
 [/symama.com/]https://doh.pub/dns-query
@@ -89875,7 +89761,6 @@ quic://dns.adguard-dns.com
 [/szhsdpa.com/]https://doh.pub/dns-query
 [/szhstjt.com/]https://doh.pub/dns-query
 [/szhsx.net/]https://doh.pub/dns-query
-[/szhtbs.com/]https://doh.pub/dns-query
 [/szhtp.com/]https://doh.pub/dns-query
 [/szhua-gao.net/]https://doh.pub/dns-query
 [/szhuace.com/]https://doh.pub/dns-query
@@ -90148,7 +90033,6 @@ quic://dns.adguard-dns.com
 [/szruitang.com/]https://doh.pub/dns-query
 [/szrunning.com/]https://doh.pub/dns-query
 [/szryc.com/]https://doh.pub/dns-query
-[/szrzxfpc.com/]https://doh.pub/dns-query
 [/szrzxh.com/]https://doh.pub/dns-query
 [/szs189.com/]https://doh.pub/dns-query
 [/szsaibao.com/]https://doh.pub/dns-query
@@ -92317,7 +92201,6 @@ quic://dns.adguard-dns.com
 [/tiesan.com/]https://doh.pub/dns-query
 [/tieshuwang.net/]https://doh.pub/dns-query
 [/tietie.la/]https://doh.pub/dns-query
-[/tietieapp.com/]https://doh.pub/dns-query
 [/tietuku.com/]https://doh.pub/dns-query
 [/tieweishi.com/]https://doh.pub/dns-query
 [/tieww.com/]https://doh.pub/dns-query
@@ -92536,7 +92419,6 @@ quic://dns.adguard-dns.com
 [/tj-kingdee.com/]https://doh.pub/dns-query
 [/tj-model.com/]https://doh.pub/dns-query
 [/tj-un.com/]https://doh.pub/dns-query
-[/tj-zt.com/]https://doh.pub/dns-query
 [/tj0573.com/]https://doh.pub/dns-query
 [/tj20.com/]https://doh.pub/dns-query
 [/tj2022.com/]https://doh.pub/dns-query
@@ -92955,7 +92837,6 @@ quic://dns.adguard-dns.com
 [/tong-run.com/]https://doh.pub/dns-query
 [/tongaokeji.com/]https://doh.pub/dns-query
 [/tongbanjie.com/]https://doh.pub/dns-query
-[/tongbanjie.info/]https://doh.pub/dns-query
 [/tongbaoyun.com/]https://doh.pub/dns-query
 [/tongbb.net/]https://doh.pub/dns-query
 [/tongbu.com/]https://doh.pub/dns-query
@@ -93002,7 +92883,6 @@ quic://dns.adguard-dns.com
 [/tongjipf.com/]https://doh.pub/dns-query
 [/tongleer.com/]https://doh.pub/dns-query
 [/tonglei.com/]https://doh.pub/dns-query
-[/tonglejoy.com/]https://doh.pub/dns-query
 [/tonglian.com/]https://doh.pub/dns-query
 [/tongliangrc.com/]https://doh.pub/dns-query
 [/tongliaowang.com/]https://doh.pub/dns-query
@@ -93019,7 +92899,6 @@ quic://dns.adguard-dns.com
 [/tongrentang.com/]https://doh.pub/dns-query
 [/tongrentangjb.com/]https://doh.pub/dns-query
 [/tongrentangkj.com/]https://doh.pub/dns-query
-[/tongrentangzyyy.com/]https://doh.pub/dns-query
 [/tongsha.com/]https://doh.pub/dns-query
 [/tongshanbank.com/]https://doh.pub/dns-query
 [/tongshiling.net/]https://doh.pub/dns-query
@@ -93412,6 +93291,7 @@ quic://dns.adguard-dns.com
 [/tpdz.net/]https://doh.pub/dns-query
 [/tpfangchan.com/]https://doh.pub/dns-query
 [/tphdled.com/]https://doh.pub/dns-query
+[/tpimg.xyz/]https://doh.pub/dns-query
 [/tpjhr.com/]https://doh.pub/dns-query
 [/tpjwww.com/]https://doh.pub/dns-query
 [/tpkey.com/]https://doh.pub/dns-query
@@ -93918,7 +93798,6 @@ quic://dns.adguard-dns.com
 [/ttq.com/]https://doh.pub/dns-query
 [/ttq.so/]https://doh.pub/dns-query
 [/ttriqi.com/]https://doh.pub/dns-query
-[/ttroytj33.fun/]https://doh.pub/dns-query
 [/tts8.com/]https://doh.pub/dns-query
 [/ttshengbei.com/]https://doh.pub/dns-query
 [/ttship.com/]https://doh.pub/dns-query
@@ -94017,7 +93896,6 @@ quic://dns.adguard-dns.com
 [/tube-cat.com/]https://doh.pub/dns-query
 [/tubebbs.com/]https://doh.pub/dns-query
 [/tubiaoxiu.com/]https://doh.pub/dns-query
-[/tubiaozu.com/]https://doh.pub/dns-query
 [/tubie.art/]https://doh.pub/dns-query
 [/tuboshu.com/]https://doh.pub/dns-query
 [/tuboshuxinxi.xyz/]https://doh.pub/dns-query
@@ -94129,7 +94007,6 @@ quic://dns.adguard-dns.com
 [/tukedu.com/]https://doh.pub/dns-query
 [/tukkk.com/]https://doh.pub/dns-query
 [/tuku.com/]https://doh.pub/dns-query
-[/tukucc.com/]https://doh.pub/dns-query
 [/tukujia.com/]https://doh.pub/dns-query
 [/tukuppt.com/]https://doh.pub/dns-query
 [/tukveks.com/]https://doh.pub/dns-query
@@ -95092,7 +94969,6 @@ quic://dns.adguard-dns.com
 [/ultramanol.com/]https://doh.pub/dns-query
 [/ultrapay.net/]https://doh.pub/dns-query
 [/ultrarisc.com/]https://doh.pub/dns-query
-[/ultrarobin.com/]https://doh.pub/dns-query
 [/ulucu.com/]https://doh.pub/dns-query
 [/ulvac-shanghai.com/]https://doh.pub/dns-query
 [/ulvac-suzhou.com/]https://doh.pub/dns-query
@@ -95259,7 +95135,6 @@ quic://dns.adguard-dns.com
 [/united-imaging.com/]https://doh.pub/dns-query
 [/united-sqwater.com/]https://doh.pub/dns-query
 [/united-water.com/]https://doh.pub/dns-query
-[/united1991.com/]https://doh.pub/dns-query
 [/unitedbank.ltd/]https://doh.pub/dns-query
 [/unitedds.com/]https://doh.pub/dns-query
 [/unitedmoney.com/]https://doh.pub/dns-query
@@ -96494,6 +96369,7 @@ quic://dns.adguard-dns.com
 [/vmanhua.com/]https://doh.pub/dns-query
 [/vmartaw.com/]https://doh.pub/dns-query
 [/vmax-lighting.com/]https://doh.pub/dns-query
+[/vmaxhome.com/]https://doh.pub/dns-query
 [/vmaya.com/]https://doh.pub/dns-query
 [/vmcnl.xyz/]https://doh.pub/dns-query
 [/vmdns.xyz/]https://doh.pub/dns-query
@@ -96885,6 +96761,7 @@ quic://dns.adguard-dns.com
 [/vvvcd.com/]https://doh.pub/dns-query
 [/vvvdj.com/]https://doh.pub/dns-query
 [/vvvtt.com/]https://doh.pub/dns-query
+[/vvxue.com/]https://doh.pub/dns-query
 [/vvzero.com/]https://doh.pub/dns-query
 [/vw888.com/]https://doh.pub/dns-query
 [/vwaycn.com/]https://doh.pub/dns-query
@@ -98523,7 +98400,6 @@ quic://dns.adguard-dns.com
 [/wenshen8.net/]https://doh.pub/dns-query
 [/wenshenba.com/]https://doh.pub/dns-query
 [/wenshendaka.com/]https://doh.pub/dns-query
-[/wenshengdz.com/]https://doh.pub/dns-query
 [/wenshenku.com/]https://doh.pub/dns-query
 [/wenshenxiu.com/]https://doh.pub/dns-query
 [/wenshuba.com/]https://doh.pub/dns-query
@@ -99135,7 +99011,6 @@ quic://dns.adguard-dns.com
 [/whsxsy88.com/]https://doh.pub/dns-query
 [/whsy.org/]https://doh.pub/dns-query
 [/whsyy.net/]https://doh.pub/dns-query
-[/whsyzdh.com/]https://doh.pub/dns-query
 [/whszniao.com/]https://doh.pub/dns-query
 [/whtaxi.com/]https://doh.pub/dns-query
 [/whtbglass.com/]https://doh.pub/dns-query
@@ -99254,7 +99129,6 @@ quic://dns.adguard-dns.com
 [/whzh-cw.com/]https://doh.pub/dns-query
 [/whzhanyi.com/]https://doh.pub/dns-query
 [/whzhaopin.net/]https://doh.pub/dns-query
-[/whzhi.com/]https://doh.pub/dns-query
 [/whzhjty.com/]https://doh.pub/dns-query
 [/whzhongxin.net/]https://doh.pub/dns-query
 [/whzhongzhi.com/]https://doh.pub/dns-query
@@ -100254,7 +100128,6 @@ quic://dns.adguard-dns.com
 [/wpk8.com/]https://doh.pub/dns-query
 [/wporder.com/]https://doh.pub/dns-query
 [/wproedu.com/]https://doh.pub/dns-query
-[/wps-office.net/]https://doh.pub/dns-query
 [/wpscdn.com/]https://doh.pub/dns-query
 [/wpsdns.com/]https://doh.pub/dns-query
 [/wpsep.net/]https://doh.pub/dns-query
@@ -100485,7 +100358,6 @@ quic://dns.adguard-dns.com
 [/wtoutiao.com/]https://doh.pub/dns-query
 [/wtown.com/]https://doh.pub/dns-query
 [/wtraff.com/]https://doh.pub/dns-query
-[/wtroytj33.fun/]https://doh.pub/dns-query
 [/wts999.com/]https://doh.pub/dns-query
 [/wtsimg.com/]https://doh.pub/dns-query
 [/wtsm.net/]https://doh.pub/dns-query
@@ -101800,7 +101672,6 @@ quic://dns.adguard-dns.com
 [/xczhsh.com/]https://doh.pub/dns-query
 [/xczim.com/]https://doh.pub/dns-query
 [/xczzs.com/]https://doh.pub/dns-query
-[/xd-game.com/]https://doh.pub/dns-query
 [/xd-tech.com/]https://doh.pub/dns-query
 [/xd-world.com/]https://doh.pub/dns-query
 [/xd.com/]https://doh.pub/dns-query
@@ -102521,7 +102392,6 @@ quic://dns.adguard-dns.com
 [/xiaoerjiren.com/]https://doh.pub/dns-query
 [/xiaoeryi.com/]https://doh.pub/dns-query
 [/xiaoetong.com/]https://doh.pub/dns-query
-[/xiaofantian.com/]https://doh.pub/dns-query
 [/xiaofany.com/]https://doh.pub/dns-query
 [/xiaofeng.org/]https://doh.pub/dns-query
 [/xiaofengtv.com/]https://doh.pub/dns-query
@@ -102970,7 +102840,6 @@ quic://dns.adguard-dns.com
 [/xichuangzhu.com/]https://doh.pub/dns-query
 [/xici.com/]https://doh.pub/dns-query
 [/xici.net/]https://doh.pub/dns-query
-[/xicn.net/]https://doh.pub/dns-query
 [/xicp.net/]https://doh.pub/dns-query
 [/xidesheng.com/]https://doh.pub/dns-query
 [/xidian.cc/]https://doh.pub/dns-query
@@ -103204,6 +103073,7 @@ quic://dns.adguard-dns.com
 [/xineurope.com/]https://doh.pub/dns-query
 [/xinexpress.com/]https://doh.pub/dns-query
 [/xinfaholding.com/]https://doh.pub/dns-query
+[/xinfangcidian.com/]https://doh.pub/dns-query
 [/xinfangsheng.com/]https://doh.pub/dns-query
 [/xinfei.com/]https://doh.pub/dns-query
 [/xinfeijituan.com/]https://doh.pub/dns-query
@@ -103882,7 +103752,6 @@ quic://dns.adguard-dns.com
 [/xiwangd.com/]https://doh.pub/dns-query
 [/xiwanglife.com/]https://doh.pub/dns-query
 [/xiwangxiaoyuan.com/]https://doh.pub/dns-query
-[/xiwanjia.com/]https://doh.pub/dns-query
 [/xiwantrip.com/]https://doh.pub/dns-query
 [/xiweigas.com/]https://doh.pub/dns-query
 [/xiwenquan.com/]https://doh.pub/dns-query
@@ -104442,7 +104311,6 @@ quic://dns.adguard-dns.com
 [/xn--6kr66fp2ep1ac5edz2hy7s2wq.com/]https://doh.pub/dns-query
 [/xn--6krw3qs7jl59b.com/]https://doh.pub/dns-query
 [/xn--6m1ao1qznhjja.xn--fiqz9s/]https://doh.pub/dns-query
-[/xn--6oq43md5j.com/]https://doh.pub/dns-query
 [/xn--6oq83hzb922dnorwsomx9dzkb.com/]https://doh.pub/dns-query
 [/xn--6oru97cy2o.xn--czr694b/]https://doh.pub/dns-query
 [/xn--6qqp94buie2ss.com/]https://doh.pub/dns-query
@@ -104480,7 +104348,6 @@ quic://dns.adguard-dns.com
 [/xn--b8qi619ujyk.com/]https://doh.pub/dns-query
 [/xn--bbt44m.net/]https://doh.pub/dns-query
 [/xn--btvs3aw8fhtbms310k.com/]https://doh.pub/dns-query
-[/xn--btvu11h.com/]https://doh.pub/dns-query
 [/xn--btvu9x9qgt8c.com/]https://doh.pub/dns-query
 [/xn--buxr99dhia.com/]https://doh.pub/dns-query
 [/xn--bxyy83e.net/]https://doh.pub/dns-query
@@ -104654,7 +104521,6 @@ quic://dns.adguard-dns.com
 [/xn--xhq60kzbz07dem6azlu.com/]https://doh.pub/dns-query
 [/xn--xhq8sm16c5ls.com/]https://doh.pub/dns-query
 [/xn--xhq95newgtxk9sk8k6a9r4ba.xn--3ds443g/]https://doh.pub/dns-query
-[/xn--xhqq2hhv0dkpk.com/]https://doh.pub/dns-query
 [/xn--xhqq4f5vc69qlmk6mva633mwoeiuad9562e.com/]https://doh.pub/dns-query
 [/xn--xhqs8jmxkive1yest6g.com/]https://doh.pub/dns-query
 [/xn--xhqs8jp0kpz2d.net/]https://doh.pub/dns-query
@@ -105030,7 +104896,6 @@ quic://dns.adguard-dns.com
 [/xtx6.com/]https://doh.pub/dns-query
 [/xtxcm.com/]https://doh.pub/dns-query
 [/xtxh.net/]https://doh.pub/dns-query
-[/xtxianghe.com/]https://doh.pub/dns-query
 [/xtylxx.com/]https://doh.pub/dns-query
 [/xtyyw.com/]https://doh.pub/dns-query
 [/xtzdc.com/]https://doh.pub/dns-query
@@ -107129,7 +106994,6 @@ quic://dns.adguard-dns.com
 [/ygct.com/]https://doh.pub/dns-query
 [/ygdatabase.com/]https://doh.pub/dns-query
 [/ygdl.com/]https://doh.pub/dns-query
-[/ygdy8.cc/]https://doh.pub/dns-query
 [/ygdy8.net/]https://doh.pub/dns-query
 [/yge.me/]https://doh.pub/dns-query
 [/ygeer.com/]https://doh.pub/dns-query
@@ -107144,7 +107008,6 @@ quic://dns.adguard-dns.com
 [/ygjctech.com/]https://doh.pub/dns-query
 [/ygjj.com/]https://doh.pub/dns-query
 [/ygjoy.com/]https://doh.pub/dns-query
-[/yglm.mobi/]https://doh.pub/dns-query
 [/ygmsy.com/]https://doh.pub/dns-query
 [/ygread.com/]https://doh.pub/dns-query
 [/ygrtt.com/]https://doh.pub/dns-query
@@ -107357,7 +107220,6 @@ quic://dns.adguard-dns.com
 [/yidahospital.com/]https://doh.pub/dns-query
 [/yidai.com/]https://doh.pub/dns-query
 [/yidaidai.com/]https://doh.pub/dns-query
-[/yidainvestment.com/]https://doh.pub/dns-query
 [/yidaointernational.com/]https://doh.pub/dns-query
 [/yidaomall.com/]https://doh.pub/dns-query
 [/yidaomobi.com/]https://doh.pub/dns-query
@@ -108766,7 +108628,6 @@ quic://dns.adguard-dns.com
 [/yohoboys.com/]https://doh.pub/dns-query
 [/yohobuy.com/]https://doh.pub/dns-query
 [/yohogirls.com/]https://doh.pub/dns-query
-[/yoholm.com/]https://doh.pub/dns-query
 [/yohomars.com/]https://doh.pub/dns-query
 [/yohoshow.com/]https://doh.pub/dns-query
 [/yohui.com/]https://doh.pub/dns-query
@@ -109187,7 +109048,6 @@ quic://dns.adguard-dns.com
 [/youshibeike.com/]https://doh.pub/dns-query
 [/youshifu.com/]https://doh.pub/dns-query
 [/youshikoudai.com/]https://doh.pub/dns-query
-[/youshionline.com/]https://doh.pub/dns-query
 [/youshixiu.com/]https://doh.pub/dns-query
 [/youshop01.com/]https://doh.pub/dns-query
 [/youshop02.com/]https://doh.pub/dns-query
@@ -109457,7 +109317,6 @@ quic://dns.adguard-dns.com
 [/yqbdt.com/]https://doh.pub/dns-query
 [/yqbimg.com/]https://doh.pub/dns-query
 [/yqbimg.net/]https://doh.pub/dns-query
-[/yqbus.net/]https://doh.pub/dns-query
 [/yqchjd.com/]https://doh.pub/dns-query
 [/yqcn.com/]https://doh.pub/dns-query
 [/yqcsbqxj.com/]https://doh.pub/dns-query
@@ -109753,7 +109612,6 @@ quic://dns.adguard-dns.com
 [/ytrdc.com/]https://doh.pub/dns-query
 [/ytrlzyw.com/]https://doh.pub/dns-query
 [/ytrmtzx.com/]https://doh.pub/dns-query
-[/ytroytj33.fun/]https://doh.pub/dns-query
 [/yts88.com/]https://doh.pub/dns-query
 [/ytsanchuan.com/]https://doh.pub/dns-query
 [/ytsense.com/]https://doh.pub/dns-query
@@ -110091,7 +109949,6 @@ quic://dns.adguard-dns.com
 [/yufenjiameng.com/]https://doh.pub/dns-query
 [/yuflc.com/]https://doh.pub/dns-query
 [/yufuid.com/]https://doh.pub/dns-query
-[/yugaopian.com/]https://doh.pub/dns-query
 [/yugasun.com/]https://doh.pub/dns-query
 [/yugenmed.com/]https://doh.pub/dns-query
 [/yugew.com/]https://doh.pub/dns-query
@@ -110266,7 +110123,6 @@ quic://dns.adguard-dns.com
 [/yuncloudauth.com/]https://doh.pub/dns-query
 [/yuncname.com/]https://doh.pub/dns-query
 [/yuncode.net/]https://doh.pub/dns-query
-[/yunconfig.com/]https://doh.pub/dns-query
 [/yund.tech/]https://doh.pub/dns-query
 [/yunda56.com/]https://doh.pub/dns-query
 [/yundaex.com/]https://doh.pub/dns-query
@@ -110276,7 +110132,6 @@ quic://dns.adguard-dns.com
 [/yundaltl.com/]https://doh.pub/dns-query
 [/yundangan.com/]https://doh.pub/dns-query
 [/yundangnet.com/]https://doh.pub/dns-query
-[/yundaocaishui.com/]https://doh.pub/dns-query
 [/yundaomen.com/]https://doh.pub/dns-query
 [/yundasys.com/]https://doh.pub/dns-query
 [/yunde.net/]https://doh.pub/dns-query
@@ -110751,6 +110606,7 @@ quic://dns.adguard-dns.com
 [/yuzmshanghai.org/]https://doh.pub/dns-query
 [/yuzone.net/]https://doh.pub/dns-query
 [/yuzundaojia.com/]https://doh.pub/dns-query
+[/yvrdream.com/]https://doh.pub/dns-query
 [/yvv.in/]https://doh.pub/dns-query
 [/yvzfgigpiwmofux.com/]https://doh.pub/dns-query
 [/yw11.com/]https://doh.pub/dns-query
@@ -112128,7 +111984,6 @@ quic://dns.adguard-dns.com
 [/zglcn.net/]https://doh.pub/dns-query
 [/zglcxyxzz.com/]https://doh.pub/dns-query
 [/zglcyx.com/]https://doh.pub/dns-query
-[/zglfw.com/]https://doh.pub/dns-query
 [/zglibrary.com/]https://doh.pub/dns-query
 [/zglipin.com/]https://doh.pub/dns-query
 [/zgljl2012.com/]https://doh.pub/dns-query
@@ -112362,6 +112217,7 @@ quic://dns.adguard-dns.com
 [/zhainanhuayuan.com/]https://doh.pub/dns-query
 [/zhaipan.vip/]https://doh.pub/dns-query
 [/zhairport.com/]https://doh.pub/dns-query
+[/zhaitushe.com/]https://doh.pub/dns-query
 [/zhaiwuu.com/]https://doh.pub/dns-query
 [/zhaixiaoniu.com/]https://doh.pub/dns-query
 [/zhaixue.cc/]https://doh.pub/dns-query
@@ -114336,7 +114192,6 @@ quic://dns.adguard-dns.com
 [/zjchunhui.com/]https://doh.pub/dns-query
 [/zjcio.org/]https://doh.pub/dns-query
 [/zjcjjt.com/]https://doh.pub/dns-query
-[/zjcjwh.com/]https://doh.pub/dns-query
 [/zjckw.org/]https://doh.pub/dns-query
 [/zjcloud.com/]https://doh.pub/dns-query
 [/zjcnbank.com/]https://doh.pub/dns-query
@@ -114767,7 +114622,6 @@ quic://dns.adguard-dns.com
 [/zjtree.com/]https://doh.pub/dns-query
 [/zjts.com/]https://doh.pub/dns-query
 [/zjtxedu.org/]https://doh.pub/dns-query
-[/zjtxrc.com/]https://doh.pub/dns-query
 [/zjtyphoon.com/]https://doh.pub/dns-query
 [/zjtzcx.com/]https://doh.pub/dns-query
 [/zjtzedu.com/]https://doh.pub/dns-query
@@ -114914,7 +114768,6 @@ quic://dns.adguard-dns.com
 [/zke999.com/]https://doh.pub/dns-query
 [/zkecopro.com/]https://doh.pub/dns-query
 [/zkedrive.com/]https://doh.pub/dns-query
-[/zkeys.com/]https://doh.pub/dns-query
 [/zkgenergy.com/]https://doh.pub/dns-query
 [/zkh.com/]https://doh.pub/dns-query
 [/zkh360.com/]https://doh.pub/dns-query
@@ -115085,9 +114938,7 @@ quic://dns.adguard-dns.com
 [/zmdsbus.com/]https://doh.pub/dns-query
 [/zmdsjob.com/]https://doh.pub/dns-query
 [/zmdwater.com/]https://doh.pub/dns-query
-[/zmdxy.com/]https://doh.pub/dns-query
 [/zmdyzkgjt.com/]https://doh.pub/dns-query
-[/zmdyzyey.com/]https://doh.pub/dns-query
 [/zmdz.com/]https://doh.pub/dns-query
 [/zmeetb.com/]https://doh.pub/dns-query
 [/zmeng.cc/]https://doh.pub/dns-query
@@ -116270,7 +116121,6 @@ quic://dns.adguard-dns.com
 [/zyt8.com/]https://doh.pub/dns-query
 [/zytang.net/]https://doh.pub/dns-query
 [/zytm913.com/]https://doh.pub/dns-query
-[/zytuozhan.com/]https://doh.pub/dns-query
 [/zyucan.com/]https://doh.pub/dns-query
 [/zyue.com/]https://doh.pub/dns-query
 [/zyun.vip/]https://doh.pub/dns-query
@@ -116499,7 +116349,6 @@ quic://dns.adguard-dns.com
 [/zzyan360.com/]https://doh.pub/dns-query
 [/zzyauto.com/]https://doh.pub/dns-query
 [/zzycpa.com/]https://doh.pub/dns-query
-[/zzydb.com/]https://doh.pub/dns-query
 [/zzyecc.com/]https://doh.pub/dns-query
 [/zzyedu.org/]https://doh.pub/dns-query
 [/zzyfdj.com/]https://doh.pub/dns-query

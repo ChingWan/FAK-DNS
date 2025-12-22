@@ -1636,7 +1636,6 @@ quic://dns.adguard-dns.com
 [/148com.com/]https://doh.pub/dns-query
 [/148la.com/]https://doh.pub/dns-query
 [/14944.net/]https://doh.pub/dns-query
-[/1495c8.com/]https://doh.pub/dns-query
 [/14hj.com/]https://doh.pub/dns-query
 [/14play.net/]https://doh.pub/dns-query
 [/14xd.com/]https://doh.pub/dns-query
@@ -6658,7 +6657,6 @@ quic://dns.adguard-dns.com
 [/62669.com/]https://doh.pub/dns-query
 [/626x.com/]https://doh.pub/dns-query
 [/628.com/]https://doh.pub/dns-query
-[/628536nyv.com/]https://doh.pub/dns-query
 [/62923.vip/]https://doh.pub/dns-query
 [/629973.com/]https://doh.pub/dns-query
 [/62dns.com/]https://doh.pub/dns-query
@@ -11827,7 +11825,6 @@ quic://dns.adguard-dns.com
 [/antvr.com/]https://doh.pub/dns-query
 [/antwork.link/]https://doh.pub/dns-query
 [/antzk.com/]https://doh.pub/dns-query
-[/anviettek.com/]https://doh.pub/dns-query
 [/anw.red/]https://doh.pub/dns-query
 [/anweilan.com/]https://doh.pub/dns-query
 [/anweishi.com/]https://doh.pub/dns-query
@@ -53549,6 +53546,7 @@ quic://dns.adguard-dns.com
 [/jamalube.net/]https://doh.pub/dns-query
 [/jamcz.com/]https://doh.pub/dns-query
 [/jamidol.com/]https://doh.pub/dns-query
+[/jamms.org/]https://doh.pub/dns-query
 [/jammyfm.com/]https://doh.pub/dns-query
 [/jampotgames.com/]https://doh.pub/dns-query
 [/janbao.net/]https://doh.pub/dns-query
@@ -56755,7 +56753,6 @@ quic://dns.adguard-dns.com
 [/js96008.com/]https://doh.pub/dns-query
 [/js96777.com/]https://doh.pub/dns-query
 [/jsadkg.com/]https://doh.pub/dns-query
-[/jsadt.com/]https://doh.pub/dns-query
 [/jsaeit.com/]https://doh.pub/dns-query
 [/jsaes.com/]https://doh.pub/dns-query
 [/jsafc.net/]https://doh.pub/dns-query
